@@ -19,6 +19,7 @@
 
   <!-- HEADER INICIO (Sofi) -->
   <text x="400" y="35" class="style2">__nombre__</text>
+  <text x="400" y="45" class="style2">__gradogrupo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (Sofia) -->
