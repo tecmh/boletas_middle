@@ -19,15 +19,15 @@
 
   <!-- HEADER INICIO (Sofi) -->
   <text x="400" y="35" class="style2">__nombre__</text>
-  <text x="400" y="50" class="style2">__gradogrupo__</text>
-  <text x="400" y="65" class="style2">__fecha__</text>
-  <text x="400" y="80" class="style2">__ciclo__</text>
+  <text x="400" y="45" class="style2">__gradogrupo__</text>
+  <text x="400" y="55" class="style2">__fecha__</text>
+  <text x="400" y="65" class="style2">__ciclo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
-  <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofia) -->
+  <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
   <text x="50" y="150" class="style2">__m_f1__</text>
   <text x="50" y="162" class="style2">__m_f2__</text>
   <text x="50" y="174" class="style2">__m_f3__</text>
