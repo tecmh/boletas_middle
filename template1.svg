@@ -19,18 +19,35 @@
 
   <!-- HEADER INICIO (Sofi) -->
   <text x="400" y="35" class="style2">__nombre__</text>
-  <text x="400" y="45" class="style2">__gradogrupo__</text>
-  <text x="400" y="55" class="style2">__fecha__</text>
-  <text x="400" y="65" class="style2">__ciclo__</text>
+  <text x="400" y="50" class="style2">__gradogrupo__</text>
+  <text x="400" y="65" class="style2">__fecha__</text>
+  <text x="400" y="80" class="style2">__ciclo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofia) -->
-  <text x="100" y="150" class="style2">__m_f1__</text>
-  <text x="100" y="160" class="style2">__m_f1__</text>
-  <text x="100" y="170" class="style2">__m_f1__</text>
+  <text x="50" y="150" class="style2">__m_f1__</text>
+  <text x="50" y="162" class="style2">__m_f2__</text>
+  <text x="50" y="174" class="style2">__m_f3__</text>
+  <text x="50" y="186" class="style2">__m_f4__</text>
+  <text x="50" y="198" class="style2">__m_f5__</text>
+  <text x="50" y="210" class="style2">__m_f6__</text>
+  <text x="50" y="222" class="style2">__m_f7__</text>
+  <text x="50" y="234" class="style2">__m_f8__</text>
+  <text x="50" y="246" class="style2">__m_f9__</text>
+  <text x="50" y="258" class="style2">__m_f10__</text>
+  <text x="50" y="270" class="style2">__m_f11__</text>
+  <text x="50" y="282" class="style2">__m_f12__</text>
+  <text x="50" y="294" class="style2">__m_f13__</text>
+  <text x="50" y="306" class="style2">__m_f14__</text>
+  <text x="50" y="318" class="style2">__m_f15__</text>
+  <text x="50" y="330" class="style2">__m_f16__</text>
+  <text x="50" y="342" class="style2">__m_f17__</text>
+  <text x="50" y="354" class="style2">__m_f18__</text>
+  <text x="50" y="366" class="style2">__m_f19__</text>
+  <text x="50" y="378" class="style2">__m_f20__</text>
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 1 INTERNO INICIO (Aldo) -->
