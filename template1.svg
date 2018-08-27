@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="612" height="792">
+
+<!--
+  INSTRUCIONES:
+    Llenar sección correspondiente con <text>
+      Ejemplo campo simple: Name/Nombre: >>> __nombre__
+      Ejemplo campo datos: Bimestre 1 Fila 1 >>> __b1_f1__
+      Ejemplo campo datos: Periodo oficial 3 Fila 4 >>> __p3_f4__
+-->
+
+  <style>
+    .style1 { font: italic 13px sans-serif }
+    .style2 { font: bold   13px sans-serif }
+    .style3 { font: italic 40px serif; fill: red; }
+  </style>
+
+  <rect width="612" height="792" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+
+  <!-- HEADER INICIO (Claudia) -->
+  <text x="300" y="35" class="style1">Name/Nombre:</text>
+  <text x="400" y="35" class="style2">__nombre__</text>
+  <!-- HEADER FIN -->
+
+  <!-- ETIQUETAS BIMESTRES INTERNO INICIO (Sofia) -->
+  <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
+
+  <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofia) -->
+  <!-- ETIQUETAS MATERIAS INTERNO FIN -->
+
+  <!-- DATOS BIMESTRE 1 INTERNO INICIO (Aldo) -->
+  <!-- DATOS BIMESTRE 1 INTERNO FIN -->
+
+  <!-- DATOS BIMESTRE 2 INTERNO INICIO (Nancy) -->
+  <!-- DATOS BIMESTRE 2 INTERNO FIN -->
+
+  <!-- DATOS BIMESTRE 3 INTERNO INICIO (Sofia)-->
+  <!-- DATOS BIMESTRE 3 INTERNO FIN -->
+
+  <!-- DATOS BIMESTRE 4 INTERNO INICIO (Karina) -->
+  <!-- DATOS BIMESTRE 4 INTERNO FIN -->
+
+  <!-- DATOS BIMESTRE 5 INTERNO INICIO (Claudia) -->
+  <!-- DATOS BIMESTRE 5 INTERNO FIN -->
+
+  <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Karina) -->
+  <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
+
+  <!-- ETIQUETAS MATERIAS OFICIAL INICIO -->
+  <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
+
+  <!-- DATOS PERIODO 1 OFICIAL INICIO-->
+  <!-- DATOS PERIODO 1 OFICIAL FIN-->
+
+</svg>
