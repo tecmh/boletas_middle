@@ -20,8 +20,8 @@
   <!-- HEADER INICIO (Sofi) -->
   <text x="400" y="35" class="style3">__nombre__</text>
   <text x="400" y="45" class="style3">__gradogrupo__</text>
-  <text x="400" y="55" class="style3">__fecha__</text>
-  <text x="400" y="65" class="style3">__ciclo__</text>
+  <text x="400" y="58" class="style3">__fecha__</text>
+  <text x="400" y="68" class="style3">__ciclo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
