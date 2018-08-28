@@ -28,26 +28,26 @@
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
-  <text x="25" y="150" class="style2">__m_f1__</text>
-  <text x="25" y="162" class="style2">__m_f2__</text>
-  <text x="25" y="174" class="style2">__m_f3__</text>
-  <text x="25" y="186" class="style2">__m_f4__</text>
-  <text x="25" y="198" class="style2">__m_f5__</text>
-  <text x="25" y="210" class="style2">__m_f6__</text>
-  <text x="25" y="222" class="style2">__m_f7__</text>
-  <text x="25" y="234" class="style2">__m_f8__</text>
-  <text x="25" y="246" class="style2">__m_f9__</text>
-  <text x="25" y="258" class="style2">__m_f10__</text>
-  <text x="25" y="270" class="style2">__m_f11__</text>
-  <text x="25" y="282" class="style2">__m_f12__</text>
-  <text x="25" y="294" class="style2">__m_f13__</text>
-  <text x="25" y="306" class="style2">__m_f14__</text>
-  <text x="25" y="318" class="style2">__m_f15__</text>
-  <text x="25" y="330" class="style2">__m_f16__</text>
-  <text x="25" y="342" class="style2">__m_f17__</text>
-  <text x="25" y="354" class="style2">__m_f18__</text>
-  <text x="25" y="366" class="style2">__m_f19__</text>
-  <text x="25" y="378" class="style2">__m_f20__</text>
+  <text x="25" y="150" class="style2">__m_e1__</text>
+  <text x="25" y="162" class="style2">__m_e2__</text>
+  <text x="25" y="174" class="style2">__m_e3__</text>
+  <text x="25" y="186" class="style2">__m_e4__</text>
+  <text x="25" y="198" class="style2">__m_e5__</text>
+  <text x="25" y="210" class="style2">__m_e6__</text>
+  <text x="25" y="222" class="style2">__m_e7__</text>
+  <text x="25" y="234" class="style2">__m_e8__</text>
+  <text x="25" y="246" class="style2">__m_e9__</text>
+  <text x="25" y="258" class="style2">__m_e10__</text>
+  <text x="25" y="270" class="style2">__m_e11__</text>
+  <text x="25" y="282" class="style2">__m_e12__</text>
+  <text x="25" y="294" class="style2">__m_e13__</text>
+  <text x="25" y="306" class="style2">__m_e14__</text>
+  <text x="25" y="318" class="style2">__m_e15__</text>
+  <text x="25" y="330" class="style2">__m_e16__</text>
+  <text x="25" y="342" class="style2">__m_e17__</text>
+  <text x="25" y="354" class="style2">__m_e18__</text>
+  <text x="25" y="366" class="style2">__m_e19__</text>
+  <text x="25" y="378" class="style2">__m_e20__</text>
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 1 INTERNO INICIO (Sofi) -->
@@ -73,7 +73,7 @@
   <text x="130" y="378" class="style2">__p1_f20__</text>
   <!-- DATOS BIMESTRE 1 INTERNO FIN -->
 
-  <!-- DATOS BIMESTRE 2 INTERNO INICIO (Nancy) -->
+  <!-- DATOS BIMESTRE 2 INTERNO INICIO (Sofi) -->
   <text x="210" y="150" class="style2">__p2_f1__</text>
   <text x="210" y="162" class="style2">__p2_f2__</text>
   <text x="210" y="174" class="style2">__p2_f3__</text>
@@ -165,7 +165,7 @@
   <text x="450" y="378" class="style2">__p5_f20__</text>
   <!-- DATOS BIMESTRE 5 INTERNO FIN -->
 
-  <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Karina) -->
+  <!-- DATOS PROMEDIO FINAL BIM INICIO (Sofi) -->
   <text x="530" y="150" class="style2">__p6_f1__</text>
   <text x="530" y="162" class="style2">__p6_f2__</text>
   <text x="530" y="174" class="style2">__p6_f3__</text>
@@ -186,17 +186,60 @@
   <text x="530" y="354" class="style2">__p6_f18__</text>
   <text x="530" y="366" class="style2">__p6_f19__</text>
   <text x="530" y="378" class="style2">__p6_f20__</text>
+  <!-- DAYOS PROMEDIO FINAL BIM FIN  -->
+
+
+  <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
+  <text x="200" y="425" class="style1">__p1_e1__</text>
+  <text x="300" y="425" class="style1">__p2_e2__</text>
+  <text x="400" y="425" class="style1">__p3_e3__</text>
+  <text x="530" y="425" class="style1">__p3_e4__</text>
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
-  <!-- ETIQUETAS MATERIAS OFICIAL INICIO -->
-  <text x="25" y="550" class="style1">__com1__</text>
-  <text x="25" y="560" class="style1">__com2__</text>
-  <text x="25" y="570" class="style1">__com3__</text>
-  <text x="25" y="580" class="style1">__com4__</text>
+  <!-- ETIQUETAS MATERIAS OFICIAL INICIO (Sofi) -->
+  <text x="25" y="445" class="style1">__m1_e1__</text>
+  <text x="25" y="457" class="style1">__m1_e2__</text>
+  <text x="25" y="469" class="style1">__m1_e3__</text>
+  <text x="25" y="481" class="style1">__m1_e4__</text>
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
-  <!-- DATOS PERIODO 1 OFICIAL INICIO-->
-  <text x="215" y="670" class="style2">__prom__</text>
+  <!-- DATOS PERIODO 1 OFICIAL INICIO (Sofi) -->
+  <text x="200" y="445" class="style2">__p1_o1__</text>
+  <text x="200" y="457" class="style2">__p1_o2__</text>
+  <text x="200" y="469" class="style2">__p1_o3__</text>
+  <text x="200" y="481" class="style2">__p1_o4__</text>
   <!-- DATOS PERIODO 1 OFICIAL FIN-->
+
+  <!-- DATOS PERIODO 2 OFICIAL INICIO (Sofi) -->
+  <text x="300" y="445" class="style2">__p2_o1__</text>
+  <text x="300" y="457" class="style2">__p2_o2__</text>
+  <text x="300" y="469" class="style2">__p2_o3__</text>
+  <text x="300" y="481" class="style2">__p2_o4__</text>
+  <!-- DATOS PERIODO 2 OFICIAL FIN-->
+
+  <!-- DATOS PERIODO 3 OFICIAL INICIO (Sofi) -->
+  <text x="400" y="445" class="style2">__p3_o1__</text>
+  <text x="400" y="457" class="style2">__p3_o2__</text>
+  <text x="400" y="469" class="style2">__p3_o3__</text>
+  <text x="400" y="481" class="style2">__p3_o4__</text>
+  <!-- DATOS PERIODO 3 OFICIAL FIN-->
+
+  <!-- DATOS PERIODO 4 OFICIAL INICIO (Sofi) -->
+  <text x="530" y="445" class="style2">__p4_o1__</text>
+  <text x="530" y="457" class="style2">__p4_o2__</text>
+  <text x="530" y="469" class="style2">__p4_o3__</text>
+  <text x="530" y="481" class="style2">__p4_o4__</text>
+  <!-- DATOS PERIODO 4 OFICIAL FIN-->
+
+  <!-- DATOS COMENTARIOS INICIO (Sofi) -->
+  <text x="25" y="550" class="style2">__p4_o1__</text>
+  <text x="25" y="562" class="style2">__p4_o2__</text>
+  <text x="25" y="574" class="style2">__p4_o3__</text>
+  <text x="25" y="586" class="style2">__p4_o4__</text>
+  <!-- DATOS COMENTARIOS FIN-->
+
+  <!-- DATOS PROMEDIO GENERAL OFICIAL INICIO-->
+  <text x="215" y="670" class="style2">__prom__</text>
+  <!-- DATOS PROMEDIO GENERAL FIN-->
 
 </svg>
