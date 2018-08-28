@@ -11,67 +11,192 @@
 
   <style>
     .style1 { font: italic 13px sans-serif }
-    .style2 { font: bold   13px sans-serif }
-    .style3 { font: italic 40px serif; fill: red; }
+    .style2 { font:    13px sans-serif }
+    .style3 { font: bold   13px sans-serif }
   </style>
 
   <rect width="612" height="792" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
 
   <!-- HEADER INICIO (Sofi) -->
-  <text x="400" y="35" class="style2">__nombre__</text>
-  <text x="400" y="45" class="style2">__gradogrupo__</text>
-  <text x="400" y="55" class="style2">__fecha__</text>
-  <text x="400" y="65" class="style2">__ciclo__</text>
+  <text x="400" y="35" class="style3">__nombre__</text>
+  <text x="400" y="45" class="style3">__gradogrupo__</text>
+  <text x="400" y="55" class="style3">__fecha__</text>
+  <text x="400" y="65" class="style3">__ciclo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
-  <text x="50" y="150" class="style2">__m_f1__</text>
-  <text x="50" y="162" class="style2">__m_f2__</text>
-  <text x="50" y="174" class="style2">__m_f3__</text>
-  <text x="50" y="186" class="style2">__m_f4__</text>
-  <text x="50" y="198" class="style2">__m_f5__</text>
-  <text x="50" y="210" class="style2">__m_f6__</text>
-  <text x="50" y="222" class="style2">__m_f7__</text>
-  <text x="50" y="234" class="style2">__m_f8__</text>
-  <text x="50" y="246" class="style2">__m_f9__</text>
-  <text x="50" y="258" class="style2">__m_f10__</text>
-  <text x="50" y="270" class="style2">__m_f11__</text>
-  <text x="50" y="282" class="style2">__m_f12__</text>
-  <text x="50" y="294" class="style2">__m_f13__</text>
-  <text x="50" y="306" class="style2">__m_f14__</text>
-  <text x="50" y="318" class="style2">__m_f15__</text>
-  <text x="50" y="330" class="style2">__m_f16__</text>
-  <text x="50" y="342" class="style2">__m_f17__</text>
-  <text x="50" y="354" class="style2">__m_f18__</text>
-  <text x="50" y="366" class="style2">__m_f19__</text>
-  <text x="50" y="378" class="style2">__m_f20__</text>
+  <text x="25" y="150" class="style2">__m_f1__</text>
+  <text x="25" y="162" class="style2">__m_f2__</text>
+  <text x="25" y="174" class="style2">__m_f3__</text>
+  <text x="25" y="186" class="style2">__m_f4__</text>
+  <text x="25" y="198" class="style2">__m_f5__</text>
+  <text x="25" y="210" class="style2">__m_f6__</text>
+  <text x="25" y="222" class="style2">__m_f7__</text>
+  <text x="25" y="234" class="style2">__m_f8__</text>
+  <text x="25" y="246" class="style2">__m_f9__</text>
+  <text x="25" y="258" class="style2">__m_f10__</text>
+  <text x="25" y="270" class="style2">__m_f11__</text>
+  <text x="25" y="282" class="style2">__m_f12__</text>
+  <text x="25" y="294" class="style2">__m_f13__</text>
+  <text x="25" y="306" class="style2">__m_f14__</text>
+  <text x="25" y="318" class="style2">__m_f15__</text>
+  <text x="25" y="330" class="style2">__m_f16__</text>
+  <text x="25" y="342" class="style2">__m_f17__</text>
+  <text x="25" y="354" class="style2">__m_f18__</text>
+  <text x="25" y="366" class="style2">__m_f19__</text>
+  <text x="25" y="378" class="style2">__m_f20__</text>
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
-  <!-- DATOS BIMESTRE 1 INTERNO INICIO (Aldo) -->
+  <!-- DATOS BIMESTRE 1 INTERNO INICIO (Sofi) -->
+  <text x="125" y="150" class="style2">__p1_f1__</text>
+  <text x="125" y="162" class="style2">__p1_f2__</text>
+  <text x="125" y="174" class="style2">__p1_f3__</text>
+  <text x="125" y="186" class="style2">__p1_f4__</text>
+  <text x="125" y="198" class="style2">__p1_f5__</text>
+  <text x="125" y="210" class="style2">__p1_f6__</text>
+  <text x="125" y="222" class="style2">__p1_f7__</text>
+  <text x="125" y="234" class="style2">__p1_f8__</text>
+  <text x="125" y="246" class="style2">__p1_f9__</text>
+  <text x="125" y="258" class="style2">__p1_f10__</text>
+  <text x="125" y="270" class="style2">__p1_f11__</text>
+  <text x="125" y="282" class="style2">__p1_f12__</text>
+  <text x="125" y="294" class="style2">__p1_f13__</text>
+  <text x="125" y="306" class="style2">__p1_f14__</text>
+  <text x="125" y="318" class="style2">__p1_f15__</text>
+  <text x="125" y="330" class="style2">__p1_f16__</text>
+  <text x="125" y="342" class="style2">__p1_f17__</text>
+  <text x="125" y="354" class="style2">__p1_f18__</text>
+  <text x="125" y="366" class="style2">__p1_f19__</text>
+  <text x="125" y="378" class="style2">__p1_f20__</text>
   <!-- DATOS BIMESTRE 1 INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 2 INTERNO INICIO (Nancy) -->
+  <text x="205" y="150" class="style2">__p2_f1__</text>
+  <text x="205" y="162" class="style2">__p2_f2__</text>
+  <text x="205" y="174" class="style2">__p2_f3__</text>
+  <text x="205" y="186" class="style2">__p2_f4__</text>
+  <text x="205" y="198" class="style2">__p2_f5__</text>
+  <text x="205" y="210" class="style2">__p2_f6__</text>
+  <text x="205" y="222" class="style2">__p2_f7__</text>
+  <text x="205" y="234" class="style2">__p2_f8__</text>
+  <text x="205" y="246" class="style2">__p2_f9__</text>
+  <text x="205" y="258" class="style2">__p2_f10__</text>
+  <text x="205" y="270" class="style2">__p2_f11__</text>
+  <text x="205" y="282" class="style2">__p2_f12__</text>
+  <text x="205" y="294" class="style2">__p2_f13__</text>
+  <text x="205" y="306" class="style2">__p2_f14__</text>
+  <text x="205" y="318" class="style2">__p2_f15__</text>
+  <text x="205" y="330" class="style2">__p2_f16__</text>
+  <text x="205" y="342" class="style2">__p2_f17__</text>
+  <text x="205" y="354" class="style2">__p2_f18__</text>
+  <text x="205" y="366" class="style2">__p2_f19__</text>
+  <text x="205" y="378" class="style2">__p2_f20__</text>
   <!-- DATOS BIMESTRE 2 INTERNO FIN -->
 
-  <!-- DATOS BIMESTRE 3 INTERNO INICIO (Sofia)-->
+  <!-- DATOS BIMESTRE 3 INTERNO INICIO (Sofi)-->
+  <text x="285" y="150" class="style2">__p3_f1__</text>
+  <text x="285" y="162" class="style2">__p3_f2__</text>
+  <text x="285" y="174" class="style2">__p3_f3__</text>
+  <text x="285" y="186" class="style2">__p3_f4__</text>
+  <text x="285" y="198" class="style2">__p3_f5__</text>
+  <text x="285" y="210" class="style2">__p3_f6__</text>
+  <text x="285" y="222" class="style2">__p3_f7__</text>
+  <text x="285" y="234" class="style2">__p3_f8__</text>
+  <text x="285" y="246" class="style2">__p3_f9__</text>
+  <text x="285" y="258" class="style2">__p3_f10__</text>
+  <text x="285" y="270" class="style2">__p3_f11__</text>
+  <text x="285" y="282" class="style2">__p3_f12__</text>
+  <text x="285" y="294" class="style2">__p3_f13__</text>
+  <text x="285" y="306" class="style2">__p3_f14__</text>
+  <text x="285" y="318" class="style2">__p3_f15__</text>
+  <text x="285" y="330" class="style2">__p3_f16__</text>
+  <text x="285" y="342" class="style2">__p3_f17__</text>
+  <text x="285" y="354" class="style2">__p3_f18__</text>
+  <text x="285" y="366" class="style2">__p3_f19__</text>
+  <text x="285" y="378" class="style2">__p3_f20__</text>
   <!-- DATOS BIMESTRE 3 INTERNO FIN -->
 
-  <!-- DATOS BIMESTRE 4 INTERNO INICIO (Karina) -->
+  <!-- DATOS BIMESTRE 4 INTERNO INICIO (Sofi) -->
+  <text x="365" y="150" class="style2">__p4_f1__</text>
+  <text x="365" y="162" class="style2">__p4_f2__</text>
+  <text x="365" y="174" class="style2">__p4_f3__</text>
+  <text x="365" y="186" class="style2">__p4_f4__</text>
+  <text x="365" y="198" class="style2">__p4_f5__</text>
+  <text x="365" y="210" class="style2">__p4_f6__</text>
+  <text x="365" y="222" class="style2">__p4_f7__</text>
+  <text x="365" y="234" class="style2">__p4_f8__</text>
+  <text x="365" y="246" class="style2">__p4_f9__</text>
+  <text x="365" y="258" class="style2">__p4_f10__</text>
+  <text x="365" y="270" class="style2">__p4_f11__</text>
+  <text x="365" y="282" class="style2">__p4_f12__</text>
+  <text x="365" y="294" class="style2">__p4_f13__</text>
+  <text x="365" y="306" class="style2">__p4_f14__</text>
+  <text x="365" y="318" class="style2">__p4_f15__</text>
+  <text x="365" y="330" class="style2">__p4_f16__</text>
+  <text x="365" y="342" class="style2">__p4_f17__</text>
+  <text x="365" y="354" class="style2">__p4_f18__</text>
+  <text x="365" y="366" class="style2">__p4_f19__</text>
+  <text x="365" y="378" class="style2">__p4_f20__</text>
   <!-- DATOS BIMESTRE 4 INTERNO FIN -->
 
-  <!-- DATOS BIMESTRE 5 INTERNO INICIO (Claudia) -->
+  <!-- DATOS BIMESTRE 5 INTERNO INICIO (Sofi) -->
+  <text x="445" y="150" class="style2">__p5_f1__</text>
+  <text x="445" y="162" class="style2">__p5_f2__</text>
+  <text x="445" y="174" class="style2">__p5_f3__</text>
+  <text x="445" y="186" class="style2">__p5_f4__</text>
+  <text x="445" y="198" class="style2">__p5_f5__</text>
+  <text x="445" y="210" class="style2">__p5_f6__</text>
+  <text x="445" y="222" class="style2">__p5_f7__</text>
+  <text x="445" y="234" class="style2">__p5_f8__</text>
+  <text x="445" y="246" class="style2">__p5_f9__</text>
+  <text x="445" y="258" class="style2">__p5_f10__</text>
+  <text x="445" y="270" class="style2">__p5_f11__</text>
+  <text x="445" y="282" class="style2">__p5_f12__</text>
+  <text x="445" y="294" class="style2">__p5_f13__</text>
+  <text x="445" y="306" class="style2">__p5_f14__</text>
+  <text x="445" y="318" class="style2">__p5_f15__</text>
+  <text x="445" y="330" class="style2">__p5_f16__</text>
+  <text x="445" y="342" class="style2">__p5_f17__</text>
+  <text x="445" y="354" class="style2">__p5_f18__</text>
+  <text x="445" y="366" class="style2">__p5_f19__</text>
+  <text x="445" y="378" class="style2">__p5_f20__</text>
   <!-- DATOS BIMESTRE 5 INTERNO FIN -->
 
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Karina) -->
+  <text x="525" y="150" class="style2">__p6_f1__</text>
+  <text x="525" y="162" class="style2">__p6_f2__</text>
+  <text x="525" y="174" class="style2">__p6_f3__</text>
+  <text x="525" y="186" class="style2">__p6_f4__</text>
+  <text x="525" y="198" class="style2">__p6_f5__</text>
+  <text x="525" y="210" class="style2">__p6_f6__</text>
+  <text x="525" y="222" class="style2">__p6_f7__</text>
+  <text x="525" y="234" class="style2">__p6_f8__</text>
+  <text x="525" y="246" class="style2">__p6_f9__</text>
+  <text x="525" y="258" class="style2">__p6_f10__</text>
+  <text x="525" y="270" class="style2">__p6_f11__</text>
+  <text x="525" y="282" class="style2">__p6_f12__</text>
+  <text x="525" y="294" class="style2">__p6_f13__</text>
+  <text x="525" y="306" class="style2">__p6_f14__</text>
+  <text x="525" y="318" class="style2">__p6_f15__</text>
+  <text x="525" y="330" class="style2">__p6_f16__</text>
+  <text x="525" y="342" class="style2">__p6_f17__</text>
+  <text x="525" y="354" class="style2">__p6_f18__</text>
+  <text x="525" y="366" class="style2">__p6_f19__</text>
+  <text x="525" y="378" class="style2">__p6_f20__</text>
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
   <!-- ETIQUETAS MATERIAS OFICIAL INICIO -->
+  <text x="25" y="550" class="style1">__com1__</text>
+  <text x="25" y="560" class="style1">__com2__</text>
+  <text x="25" y="570" class="style1">__com3__</text>
+  <text x="25" y="580" class="style1">__com4__</text>
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
   <!-- DATOS PERIODO 1 OFICIAL INICIO-->
+  <text x="215" y="670" class="style2">__prom__</text>
   <!-- DATOS PERIODO 1 OFICIAL FIN-->
 
 </svg>
