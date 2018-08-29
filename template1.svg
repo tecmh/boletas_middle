@@ -28,26 +28,26 @@
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
-  <text x="25" y="150" class="style2">__m_e1__</text>
-  <text x="25" y="162" class="style2">__m_e2__</text>
-  <text x="25" y="174" class="style2">__m_e3__</text>
-  <text x="25" y="186" class="style2">__m_e4__</text>
-  <text x="25" y="198" class="style2">__m_e5__</text>
-  <text x="25" y="210" class="style2">__m_e6__</text>
-  <text x="25" y="222" class="style2">__m_e7__</text>
-  <text x="25" y="234" class="style2">__m_e8__</text>
-  <text x="25" y="246" class="style2">__m_e9__</text>
-  <text x="25" y="258" class="style2">__m_e10__</text>
-  <text x="25" y="270" class="style2">__m_e11__</text>
-  <text x="25" y="282" class="style2">__m_e12__</text>
-  <text x="25" y="294" class="style2">__m_e13__</text>
-  <text x="25" y="306" class="style2">__m_e14__</text>
-  <text x="25" y="318" class="style2">__m_e15__</text>
-  <text x="25" y="330" class="style2">__m_e16__</text>
-  <text x="25" y="342" class="style2">__m_e17__</text>
-  <text x="25" y="354" class="style2">__m_e18__</text>
-  <text x="25" y="366" class="style2">__m_e19__</text>
-  <text x="25" y="378" class="style2">__m_e20__</text>
+  <text x="25" y="150" class="style3">__m_e1__</text>
+  <text x="25" y="162" class="style3">__m_e2__</text>
+  <text x="25" y="174" class="style3">__m_e3__</text>
+  <text x="25" y="186" class="style3">__m_e4__</text>
+  <text x="25" y="198" class="style3">__m_e5__</text>
+  <text x="25" y="210" class="style3">__m_e6__</text>
+  <text x="25" y="222" class="style3">__m_e7__</text>
+  <text x="25" y="234" class="style3">__m_e8__</text>
+  <text x="25" y="246" class="style3">__m_e9__</text>
+  <text x="25" y="258" class="style3">__m_e10__</text>
+  <text x="25" y="270" class="style3">__m_e11__</text>
+  <text x="25" y="282" class="style3">__m_e12__</text>
+  <text x="25" y="294" class="style3">__m_e13__</text>
+  <text x="25" y="306" class="style3">__m_e14__</text>
+  <text x="25" y="318" class="style3">__m_e15__</text>
+  <text x="25" y="330" class="style3">__m_e16__</text>
+  <text x="25" y="342" class="style3">__m_e17__</text>
+  <text x="25" y="354" class="style3">__m_e18__</text>
+  <text x="25" y="366" class="style3">__m_e19__</text>
+  <text x="25" y="378" class="style3">__m_e20__</text>
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 1 INTERNO INICIO (Sofi) -->
@@ -190,17 +190,17 @@
 
 
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
-  <text x="200" y="425" class="style1">__p1_e1__</text>
-  <text x="300" y="425" class="style1">__p2_e2__</text>
-  <text x="400" y="425" class="style1">__p3_e3__</text>
-  <text x="530" y="425" class="style1">__p3_e4__</text>
+  <text x="200" y="425" class="style3">__p1_e1__</text>
+  <text x="300" y="425" class="style3">__p2_e2__</text>
+  <text x="400" y="425" class="style3">__p3_e3__</text>
+  <text x="530" y="425" class="style3">__p3_e4__</text>
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
   <!-- ETIQUETAS MATERIAS OFICIAL INICIO (Sofi) -->
-  <text x="25" y="445" class="style1">__m1_e1__</text>
-  <text x="25" y="457" class="style1">__m1_e2__</text>
-  <text x="25" y="469" class="style1">__m1_e3__</text>
-  <text x="25" y="481" class="style1">__m1_e4__</text>
+  <text x="25" y="445" class="style3">__m1_e1__</text>
+  <text x="25" y="457" class="style3">__m1_e2__</text>
+  <text x="25" y="469" class="style3">__m1_e3__</text>
+  <text x="25" y="481" class="style3">__m1_e4__</text>
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
   <!-- DATOS PERIODO 1 OFICIAL INICIO (Sofi) -->
