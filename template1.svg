@@ -433,7 +433,7 @@
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
   <text x="220" y="425" class="style3">__Periodo 1__</text> <!-- p1_e1 -->
   <text x="320" y="425" class="style3">__Periodo 2__</text> <!-- p2_e2 -->
-  <text x="420" y="425" class="style3">__Periodo 4__</text> <!-- p3_e3 -->
+  <text x="420" y="425" class="style3">__Periodo 3__</text> <!-- p3_e3 -->
   <text x="540" y="425" class="style3">__Final__</text> <!-- p4_e4 -->
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
@@ -445,31 +445,47 @@
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
   <!-- DATOS PERIODO 1 OFICIAL INICIO (Sofi) -->
-  <text x="250" y="445" class="style2">00</text> <!-- p1_o1 -->
-  <text x="250" y="457" class="style2">00</text> <!-- p1_o2 -->
-  <text x="250" y="469" class="style2">00</text> <!-- p1_o3 -->
-  <text x="250" y="481" class="style2">00</text> <!-- p1_o4 -->
+  <text x="240" y="445" class="style2">00</text> <!-- p1_o1 -->
+  <text x="260" y="445" class="style2">00</text> <!-- p1_o1 -->
+  <text x="240" y="457" class="style2">00</text> <!-- p1_o2 -->
+  <text x="260" y="457" class="style2">00</text> <!-- p1_o2 -->
+  <text x="240" y="469" class="style2">00</text> <!-- p1_o3 -->
+  <text x="260" y="469" class="style2">00</text> <!-- p1_o3 -->
+  <text x="240" y="481" class="style2">00</text> <!-- p1_o4 -->
+  <text x="260" y="481" class="style2">00</text> <!-- p1_o4 -->
   <!-- DATOS PERIODO 1 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 2 OFICIAL INICIO (Sofi) -->
-  <text x="350" y="445" class="style2">00</text> <!-- p2_o1 -->
-  <text x="350" y="457" class="style2">00</text> <!-- p2_o2 -->
-  <text x="350" y="469" class="style2">00</text> <!-- p2_o3 -->
-  <text x="350" y="481" class="style2">00</text> <!-- p2_o4 -->
+  <text x="340" y="445" class="style2">00</text> <!-- p2_o1 -->
+  <text x="360" y="445" class="style2">00</text> <!-- p2_o1 -->
+  <text x="340" y="457" class="style2">00</text> <!-- p2_o2 -->
+  <text x="360" y="457" class="style2">00</text> <!-- p2_o2 -->
+  <text x="340" y="469" class="style2">00</text> <!-- p2_o3 -->
+  <text x="360" y="469" class="style2">00</text> <!-- p2_o3 -->
+  <text x="340" y="481" class="style2">00</text> <!-- p2_o4 -->
+  <text x="360" y="481" class="style2">00</text> <!-- p2_o4 -->
   <!-- DATOS PERIODO 2 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 3 OFICIAL INICIO (Sofi) -->
-  <text x="450" y="445" class="style2">00</text> <!-- p3_o1 -->
-  <text x="450" y="457" class="style2">00</text> <!-- p3_o2 -->
-  <text x="450" y="469" class="style2">00</text> <!-- p3_o3 -->
-  <text x="450" y="481" class="style2">00</text> <!-- p3_o4 -->  
+  <text x="440" y="445" class="style2">00</text> <!-- p3_o1 -->
+  <text x="460" y="445" class="style2">00</text> <!-- p3_o1 -->
+  <text x="440" y="457" class="style2">00</text> <!-- p3_o2 -->
+  <text x="460" y="457" class="style2">00</text> <!-- p3_o2 -->
+  <text x="440" y="469" class="style2">00</text> <!-- p3_o3 -->
+  <text x="460" y="469" class="style2">00</text> <!-- p3_o3 -->
+  <text x="440" y="481" class="style2">00</text> <!-- p3_o4 -->  
+  <text x="460" y="481" class="style2">00</text> <!-- p3_o4 -->  
   <!-- DATOS PERIODO 3 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 4 OFICIAL INICIO (Sofi) -->
-  <text x="560" y="445" class="style2">00</text> <!-- p4_o1 -->
-  <text x="560" y="457" class="style2">00</text> <!-- p4_o2 -->
-  <text x="560" y="469" class="style2">00</text> <!-- p4_o3 -->
-  <text x="560" y="481" class="style2">00</text> <!-- p4_o4 -->
+  <text x="550" y="445" class="style2">00</text> <!-- p4_o1 -->
+  <text x="570" y="445" class="style2">00</text> <!-- p4_o1 -->
+  <text x="550" y="457" class="style2">00</text> <!-- p4_o2 -->
+  <text x="570" y="457" class="style2">00</text> <!-- p4_o2 -->
+  <text x="550" y="469" class="style2">00</text> <!-- p4_o3 -->
+  <text x="570" y="469" class="style2">00</text> <!-- p4_o3 -->
+  <text x="550" y="481" class="style2">00</text> <!-- p4_o4 -->
+  <text x="570" y="481" class="style2">00</text> <!-- p4_o4 -->
   <!-- DATOS PERIODO 4 OFICIAL FIN-->
 
   <!-- DATOS COMENTARIOS INICIO (Sofi) -->
@@ -480,7 +496,7 @@
   <!-- DATOS COMENTARIOS FIN-->
 
   <!-- DATOS PROMEDIO GENERAL OFICIAL INICIO-->
-  <text x="215" y="670" class="style2">__prom__</text>
+  <text x="215" y="670" class="style2">__prom__</text> <!-- Promedio General -->
   <!-- DATOS PROMEDIO GENERAL FIN-->
 
 </svg>
