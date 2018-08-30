@@ -10,9 +10,10 @@
 -->
 
   <style>
-    .style1 { font: italic 13px sans-serif }
-    .style2 { font:    13px sans-serif }
-    .style3 { font: bold   13px sans-serif }
+    .style1 { font: italic 12px sans-serif }
+    .style2 { font:    12px sans-serif }
+    .style3 { font: bold   12px sans-serif }
+    .style4 { font: bold   10px sans-serif }
   </style>
 
   <rect width="612" height="792" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
@@ -28,7 +29,7 @@
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
-  <text x="25" y="150" class="style3">__m_e1__</text>
+  <text x="25" y="150" class="style3">__Innovacion Tecnologica B12__</text> <!-- m_e1 -->
   <text x="25" y="162" class="style3">__m_e2__</text>
   <text x="25" y="174" class="style3">__m_e3__</text>
   <text x="25" y="186" class="style3">__m_e4__</text>
@@ -38,7 +39,7 @@
   <text x="25" y="234" class="style3">__m_e8__</text>
   <text x="25" y="246" class="style3">__m_e9__</text>
   <text x="25" y="258" class="style3">__m_e10__</text>
-  <text x="25" y="270" class="style3">__m_e11__</text>
+  <text x="25" y="270" class="style2">__Orientacion y Tutorias 12__</text> <!-- m_e11 -->
   <text x="25" y="282" class="style3">__m_e12__</text>
   <text x="25" y="294" class="style3">__m_e13__</text>
   <text x="25" y="306" class="style3">__m_e14__</text>
@@ -47,7 +48,7 @@
   <text x="25" y="342" class="style3">__m_e17__</text>
   <text x="25" y="354" class="style3">__m_e18__</text>
   <text x="25" y="366" class="style3">__m_e19__</text>
-  <text x="25" y="378" class="style3">__m_e20__</text>
+  <text x="25" y="378" class="style4">__Literature and Creative Writing B10__</text> <!-- m_e20 -->
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 1 INTERNO INICIO (Sofi) -->
@@ -430,45 +431,45 @@
 
 
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
-  <text x="200" y="425" class="style3">__p1_e1__</text>
-  <text x="300" y="425" class="style3">__p2_e2__</text>
-  <text x="400" y="425" class="style3">__p3_e3__</text>
-  <text x="530" y="425" class="style3">__p3_e4__</text>
+  <text x="220" y="425" class="style3">__Periodo 1__</text> <!-- p1_e1 -->
+  <text x="320" y="425" class="style3">__Periodo 2__</text> <!-- p2_e2 -->
+  <text x="420" y="425" class="style3">__Periodo 4__</text> <!-- p3_e3 -->
+  <text x="540" y="425" class="style3">__Final__</text> <!-- p4_e4 -->
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
   <!-- ETIQUETAS MATERIAS OFICIAL INICIO (Sofi) -->
-  <text x="25" y="445" class="style3">__m1_e1__</text>
-  <text x="25" y="457" class="style3">__m1_e2__</text>
+  <text x="25" y="445" class="style3">__Lengua Materna Español I B12__</text> <!-- m1_e1 -->
+  <text x="25" y="457" class="style4">__Segunda Lengua: Ingles B10__</text> <!-- m2_e2 -->
   <text x="25" y="469" class="style3">__m1_e3__</text>
   <text x="25" y="481" class="style3">__m1_e4__</text>
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
   <!-- DATOS PERIODO 1 OFICIAL INICIO (Sofi) -->
-  <text x="200" y="445" class="style2">__p1_o1__</text>
-  <text x="200" y="457" class="style2">__p1_o2__</text>
-  <text x="200" y="469" class="style2">__p1_o3__</text>
-  <text x="200" y="481" class="style2">__p1_o4__</text>
+  <text x="250" y="445" class="style2">00</text> <!-- p1_o1 -->
+  <text x="250" y="457" class="style2">00</text> <!-- p1_o2 -->
+  <text x="250" y="469" class="style2">00</text> <!-- p1_o3 -->
+  <text x="250" y="481" class="style2">00</text> <!-- p1_o4 -->
   <!-- DATOS PERIODO 1 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 2 OFICIAL INICIO (Sofi) -->
-  <text x="300" y="445" class="style2">__p2_o1__</text>
-  <text x="300" y="457" class="style2">__p2_o2__</text>
-  <text x="300" y="469" class="style2">__p2_o3__</text>
-  <text x="300" y="481" class="style2">__p2_o4__</text>
+  <text x="350" y="445" class="style2">00</text> <!-- p2_o1 -->
+  <text x="350" y="457" class="style2">00</text> <!-- p2_o2 -->
+  <text x="350" y="469" class="style2">00</text> <!-- p2_o3 -->
+  <text x="350" y="481" class="style2">00</text> <!-- p2_o4 -->
   <!-- DATOS PERIODO 2 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 3 OFICIAL INICIO (Sofi) -->
-  <text x="400" y="445" class="style2">__p3_o1__</text>
-  <text x="400" y="457" class="style2">__p3_o2__</text>
-  <text x="400" y="469" class="style2">__p3_o3__</text>
-  <text x="400" y="481" class="style2">__p3_o4__</text>
+  <text x="450" y="445" class="style2">00</text> <!-- p3_o1 -->
+  <text x="450" y="457" class="style2">00</text> <!-- p3_o2 -->
+  <text x="450" y="469" class="style2">00</text> <!-- p3_o3 -->
+  <text x="450" y="481" class="style2">00</text> <!-- p3_o4 -->  
   <!-- DATOS PERIODO 3 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 4 OFICIAL INICIO (Sofi) -->
-  <text x="530" y="445" class="style2">__p4_o1__</text>
-  <text x="530" y="457" class="style2">__p4_o2__</text>
-  <text x="530" y="469" class="style2">__p4_o3__</text>
-  <text x="530" y="481" class="style2">__p4_o4__</text>
+  <text x="560" y="445" class="style2">00</text> <!-- p4_o1 -->
+  <text x="560" y="457" class="style2">00</text> <!-- p4_o2 -->
+  <text x="560" y="469" class="style2">00</text> <!-- p4_o3 -->
+  <text x="560" y="481" class="style2">00</text> <!-- p4_o4 -->
   <!-- DATOS PERIODO 4 OFICIAL FIN-->
 
   <!-- DATOS COMENTARIOS INICIO (Sofi) -->
