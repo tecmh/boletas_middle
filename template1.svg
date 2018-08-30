@@ -11,7 +11,7 @@
 
   <style>
     .style1 { font: italic 12px sans-serif }
-    .style2 { font:    12px sans-serif }
+    .style2 { font:    10px sans-serif }
     .style3 { font: bold   12px sans-serif }
     .style4 { font: bold   10px sans-serif }
   </style>
