@@ -17,486 +17,465 @@
   </style>
 
   <rect width="612" height="792" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
-
+  <rect width="600" height="780" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+  
   <!-- HEADER INICIO (Sofi) -->
   <text x="400" y="35" class="style3">__nombre__</text>
-  <text x="400" y="45" class="style3">__gradogrupo__</text>
-  <text x="400" y="58" class="style3">__fecha__</text>
-  <text x="400" y="68" class="style3">__ciclo__</text>
+  <text x="450" y="45" class="style3">__gradogrupo__</text>
+  <text x="380" y="58" class="style3">__fecha__</text>
+  <text x="420" y="68" class="style3">__ciclo__</text>
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
   <!-- ETIQUETAS BIMESTRES INTERNO FIN -->
 
   <!-- ETIQUETAS MATERIAS INTERNO INICIO (Sofi) -->
-  <text x="25" y="150" class="style3">__Innovacion Tecnologica B12__</text> <!-- m_e1 -->
-  <text x="25" y="162" class="style3">__m_e2__</text>
-  <text x="25" y="174" class="style3">__m_e3__</text>
-  <text x="25" y="186" class="style3">__m_e4__</text>
-  <text x="25" y="198" class="style3">__m_e5__</text>
-  <text x="25" y="210" class="style3">__m_e6__</text>
-  <text x="25" y="222" class="style3">__m_e7__</text>
-  <text x="25" y="234" class="style3">__m_e8__</text>
-  <text x="25" y="246" class="style3">__m_e9__</text>
-  <text x="25" y="258" class="style3">__m_e10__</text>
-  <text x="25" y="270" class="style2">__Orientacion y Tutorias 12__</text> <!-- m_e11 -->
-  <text x="25" y="282" class="style3">__m_e12__</text>
-  <text x="25" y="294" class="style3">__m_e13__</text>
-  <text x="25" y="306" class="style3">__m_e14__</text>
-  <text x="25" y="318" class="style3">__m_e15__</text>
-  <text x="25" y="330" class="style3">__m_e16__</text>
-  <text x="25" y="342" class="style3">__m_e17__</text>
-  <text x="25" y="354" class="style3">__m_e18__</text>
-  <text x="25" y="366" class="style3">__m_e19__</text>
-  <text x="25" y="378" class="style4">__Literature and Creative Writing B10__</text> <!-- m_e20 -->
+  <text x="25" y="150" class="style2">__Innovacion Tecnologica__</text> <!-- m_e1 -->
+  <text x="25" y="162" class="style2">__m_e2__</text>
+  <text x="25" y="174" class="style2">__m_e3__</text>
+  <text x="25" y="186" class="style2">__m_e4__</text>
+  <text x="25" y="198" class="style2">__m_e5__</text>
+  <text x="25" y="210" class="style2">__m_e6__</text>
+  <text x="25" y="222" class="style2">__m_e7__</text>
+  <text x="25" y="234" class="style2">__m_e8__</text>
+  <text x="25" y="246" class="style2">__m_e9__</text>
+  <text x="25" y="258" class="style2">__m_e10__</text>
+  <text x="25" y="270" class="style2">__Orientacion y Tutorias__</text> <!-- m_e11 -->
+  <text x="25" y="282" class="style2">__m_e12__</text>
+  <text x="25" y="294" class="style2">__m_e13__</text>
+  <text x="25" y="306" class="style2">__m_e14__</text>
+  <text x="25" y="318" class="style2">__m_e15__</text>
+  <text x="25" y="330" class="style2">__Literature and Creative Writing__</text> <!-- m_e20 -->
   <!-- ETIQUETAS MATERIAS INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 1 INTERNO INICIO (Sofi) -->
-  <text x="200" y="150" class="style2">00</text> <!-- p1_f1_a -->
-  <text x="220" y="150" class="style2">00</text> <!-- p1_f1_b -->
-  <text x="240" y="150" class="style2">00</text> <!-- p1_f1_c -->
-  <text x="200" y="162" class="style2">00</text> <!-- p1_f2_a -->
-  <text x="220" y="162" class="style2">00</text> <!-- p1_f2_b -->
-  <text x="240" y="162" class="style2">00</text> <!-- p1_f2_c -->
-  <text x="200" y="174" class="style2">00</text> <!-- p1_f3_a -->
-  <text x="220" y="174" class="style2">00</text> <!-- p1_f3_b -->
-  <text x="240" y="174" class="style2">00</text> <!-- p1_f3_c -->
-  <text x="200" y="186" class="style2">00</text> <!-- p1_f4_a -->
-  <text x="220" y="186" class="style2">00</text> <!-- p1_f4_b -->
-  <text x="240" y="186" class="style2">00</text> <!-- p1_f4_c -->
-  <text x="200" y="198" class="style2">00</text> <!-- p1_f5_a -->
-  <text x="220" y="198" class="style2">00</text> <!-- p1_f5_b -->
-  <text x="240" y="198" class="style2">00</text> <!-- p1_f5_c -->
-  <text x="200" y="210" class="style2">00</text> <!-- p1_f6_a -->
-  <text x="220" y="210" class="style2">00</text> <!-- p1_f6_b -->
-  <text x="240" y="210" class="style2">00</text> <!-- p1_f6_c -->
-  <text x="200" y="222" class="style2">00</text> <!-- p1_f7_a -->
-  <text x="220" y="222" class="style2">00</text> <!-- p1_f7_b -->
-  <text x="240" y="222" class="style2">00</text> <!-- p1_f7_c -->
-  <text x="200" y="234" class="style2">00</text> <!-- p1_f8_a -->
-  <text x="220" y="234" class="style2">00</text> <!-- p1_f8_b -->
-  <text x="240" y="234" class="style2">00</text> <!-- p1_f8_c -->
-  <text x="200" y="246" class="style2">00</text> <!-- p1_f9_a -->
-  <text x="220" y="246" class="style2">00</text> <!-- p1_f9_b -->
-  <text x="240" y="246" class="style2">00</text> <!-- p1_f9_c -->
-  <text x="200" y="258" class="style2">00</text> <!-- p1_f10_a -->
-  <text x="220" y="258" class="style2">00</text> <!-- p1_f10_b -->
-  <text x="240" y="258" class="style2">00</text> <!-- p1_f10_c -->
-  <text x="200" y="270" class="style2">00</text> <!-- p1_f11_a -->
-  <text x="220" y="270" class="style2">00</text> <!-- p1_f11_b -->
-  <text x="240" y="270" class="style2">00</text> <!-- p1_f11_c -->
-  <text x="200" y="282" class="style2">00</text> <!-- p1_f12_a -->
-  <text x="220" y="282" class="style2">00</text> <!-- p1_f12_b -->
-  <text x="240" y="282" class="style2">00</text> <!-- p1_f12_c -->
-  <text x="200" y="294" class="style2">00</text> <!-- p1_f13_a -->
-  <text x="220" y="294" class="style2">00</text> <!-- p1_f13_b -->
-  <text x="240" y="294" class="style2">00</text> <!-- p1_f13_c -->
-  <text x="200" y="306" class="style2">00</text> <!-- p1_f14_a -->
-  <text x="220" y="306" class="style2">00</text> <!-- p1_f14_b -->
-  <text x="240" y="306" class="style2">00</text> <!-- p1_f14_c -->
-  <text x="200" y="318" class="style2">00</text> <!-- p1_f15_a -->
-  <text x="220" y="318" class="style2">00</text> <!-- p1_f15_b -->
-  <text x="240" y="318" class="style2">00</text> <!-- p1_f15_c -->
-  <text x="200" y="330" class="style2">00</text> <!-- p1_f16_a -->
-  <text x="220" y="330" class="style2">00</text> <!-- p1_f16_b -->
-  <text x="240" y="330" class="style2">00</text> <!-- p1_f16_c -->
-  <text x="200" y="342" class="style2">00</text> <!-- p1_f17_a -->
-  <text x="220" y="342" class="style2">00</text> <!-- p1_f17_b -->
-  <text x="240" y="342" class="style2">00</text> <!-- p1_f17_c -->
-  <text x="200" y="354" class="style2">00</text> <!-- p1_f18_a -->
-  <text x="220" y="354" class="style2">00</text> <!-- p1_f18_b -->
-  <text x="240" y="354" class="style2">00</text> <!-- p1_f18_c -->
-  <text x="200" y="366" class="style2">00</text> <!-- p1_f19_a -->
-  <text x="220" y="366" class="style2">00</text> <!-- p1_f19_b -->
-  <text x="240" y="366" class="style2">00</text> <!-- p1_f19_c -->
-  <text x="200" y="378" class="style2">00</text> <!-- p1_f20_a -->
-  <text x="220" y="378" class="style2">00</text> <!-- p1_f20_b -->
-  <text x="240" y="378" class="style2">00</text> <!-- p1_f20_c -->
+  <text x="180" y="150" class="style2">00</text> <!-- p1_f1_a -->
+  <text x="200" y="150" class="style2">00</text> <!-- p1_f1_b -->
+  <text x="220" y="150" class="style2">00</text> <!-- p1_f1_c -->
+  <text x="180" y="162" class="style2">00</text> <!-- p1_f2_a -->
+  <text x="200" y="162" class="style2">00</text> <!-- p1_f2_b -->
+  <text x="220" y="162" class="style2">00</text> <!-- p1_f2_c -->
+  <text x="180" y="174" class="style2">00</text> <!-- p1_f3_a -->
+  <text x="200" y="174" class="style2">00</text> <!-- p1_f3_b -->
+  <text x="220" y="174" class="style2">00</text> <!-- p1_f3_c -->
+  <text x="180" y="186" class="style2">00</text> <!-- p1_f4_a -->
+  <text x="200" y="186" class="style2">00</text> <!-- p1_f4_b -->
+  <text x="220" y="186" class="style2">00</text> <!-- p1_f4_c -->
+  <text x="180" y="198" class="style2">00</text> <!-- p1_f5_a -->
+  <text x="200" y="198" class="style2">00</text> <!-- p1_f5_b -->
+  <text x="220" y="198" class="style2">00</text> <!-- p1_f5_c -->
+  <text x="180" y="210" class="style2">00</text> <!-- p1_f6_a -->
+  <text x="200" y="210" class="style2">00</text> <!-- p1_f6_b -->
+  <text x="220" y="210" class="style2">00</text> <!-- p1_f6_c -->
+  <text x="180" y="222" class="style2">00</text> <!-- p1_f7_a -->
+  <text x="200" y="222" class="style2">00</text> <!-- p1_f7_b -->
+  <text x="220" y="222" class="style2">00</text> <!-- p1_f7_c -->
+  <text x="180" y="234" class="style2">00</text> <!-- p1_f8_a -->
+  <text x="200" y="234" class="style2">00</text> <!-- p1_f8_b -->
+  <text x="220" y="234" class="style2">00</text> <!-- p1_f8_c -->
+  <text x="180" y="246" class="style2">00</text> <!-- p1_f9_a -->
+  <text x="200" y="246" class="style2">00</text> <!-- p1_f9_b -->
+  <text x="220" y="246" class="style2">00</text> <!-- p1_f9_c -->
+  <text x="180" y="258" class="style2">00</text> <!-- p1_f10_a -->
+  <text x="200" y="258" class="style2">00</text> <!-- p1_f10_b -->
+  <text x="220" y="258" class="style2">00</text> <!-- p1_f10_c -->
+  <text x="180" y="270" class="style2">00</text> <!-- p1_f11_a -->
+  <text x="200" y="270" class="style2">00</text> <!-- p1_f11_b -->
+  <text x="220" y="270" class="style2">00</text> <!-- p1_f11_c -->
+  <text x="180" y="282" class="style2">00</text> <!-- p1_f12_a -->
+  <text x="200" y="282" class="style2">00</text> <!-- p1_f12_b -->
+  <text x="220" y="282" class="style2">00</text> <!-- p1_f12_c -->
+  <text x="180" y="294" class="style2">00</text> <!-- p1_f13_a -->
+  <text x="200" y="294" class="style2">00</text> <!-- p1_f13_b -->
+  <text x="220" y="294" class="style2">00</text> <!-- p1_f13_c -->
+  <text x="180" y="306" class="style2">00</text> <!-- p1_f14_a -->
+  <text x="200" y="306" class="style2">00</text> <!-- p1_f14_b -->
+  <text x="220" y="306" class="style2">00</text> <!-- p1_f14_c -->
+  <text x="180" y="318" class="style2">00</text> <!-- p1_f15_a -->
+  <text x="200" y="318" class="style2">00</text> <!-- p1_f15_b -->
+  <text x="220" y="318" class="style2">00</text> <!-- p1_f15_c -->
+  <text x="180" y="330" class="style2">00</text> <!-- p1_f16_a -->
+  <text x="200" y="330" class="style2">00</text> <!-- p1_f16_b -->
+  <text x="220" y="330" class="style2">00</text> <!-- p1_f16_c -->
   <!-- DATOS BIMESTRE 1 INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 2 INTERNO INICIO (Sofi) -->
-  <text x="270" y="150" class="style2">00</text> <!-- p2_f1_a -->
-  <text x="290" y="150" class="style2">00</text> <!-- p2_f1_b -->
-  <text x="310" y="150" class="style2">00</text> <!-- p2_f1_c -->
-  <text x="270" y="162" class="style2">00</text> <!-- p2_f2_a -->
-  <text x="290" y="162" class="style2">00</text> <!-- p2_f2_b -->
-  <text x="310" y="162" class="style2">00</text> <!-- p2_f2_c -->
-  <text x="270" y="174" class="style2">00</text> <!-- p2_f3_a -->
-  <text x="290" y="174" class="style2">00</text> <!-- p2_f3_b -->
-  <text x="310" y="174" class="style2">00</text> <!-- p2_f3_c -->
-  <text x="270" y="186" class="style2">00</text> <!-- p2_f4_a -->
-  <text x="290" y="186" class="style2">00</text> <!-- p2_f4_b -->
-  <text x="310" y="186" class="style2">00</text> <!-- p2_f4_c -->
-  <text x="270" y="198" class="style2">00</text> <!-- p2_f5_a -->
-  <text x="290" y="198" class="style2">00</text> <!-- p2_f5_b -->
-  <text x="310" y="198" class="style2">00</text> <!-- p2_f5_c -->
-  <text x="270" y="210" class="style2">00</text> <!-- p2_f6_a -->
-  <text x="290" y="210" class="style2">00</text> <!-- p2_f6_b -->
-  <text x="310" y="210" class="style2">00</text> <!-- p2_f6_c -->
-  <text x="270" y="222" class="style2">00</text> <!-- p2_f7_a -->
-  <text x="290" y="222" class="style2">00</text> <!-- p2_f7_b -->
-  <text x="310" y="222" class="style2">00</text> <!-- p2_f7_c -->
-  <text x="270" y="234" class="style2">00</text> <!-- p2_f8_a -->
-  <text x="290" y="234" class="style2">00</text> <!-- p2_f8_b -->
-  <text x="310" y="234" class="style2">00</text> <!-- p2_f8_c -->
-  <text x="270" y="246" class="style2">00</text> <!-- p2_f9_a -->
-  <text x="290" y="246" class="style2">00</text> <!-- p2_f9_b -->
-  <text x="310" y="246" class="style2">00</text> <!-- p2_f9_c -->
-  <text x="270" y="258" class="style2">00</text> <!-- p2_f10_a -->
-  <text x="290" y="258" class="style2">00</text> <!-- p2_f10_b -->
-  <text x="310" y="258" class="style2">00</text> <!-- p2_f10_c -->
-  <text x="270" y="270" class="style2">00</text> <!-- p2_f11_a -->
-  <text x="290" y="270" class="style2">00</text> <!-- p2_f11_b -->
-  <text x="310" y="270" class="style2">00</text> <!-- p2_f11_c -->
-  <text x="270" y="282" class="style2">00</text> <!-- p2_f12_a -->
-  <text x="290" y="282" class="style2">00</text> <!-- p2_f12_b -->
-  <text x="310" y="282" class="style2">00</text> <!-- p2_f12_c -->
-  <text x="270" y="294" class="style2">00</text> <!-- p2_f13_a -->
-  <text x="290" y="294" class="style2">00</text> <!-- p2_f13_b -->
-  <text x="310" y="294" class="style2">00</text> <!-- p2_f13_c -->
-  <text x="270" y="306" class="style2">00</text> <!-- p2_f14_a -->
-  <text x="290" y="306" class="style2">00</text> <!-- p2_f14_b -->
-  <text x="310" y="306" class="style2">00</text> <!-- p2_f14_c -->
-  <text x="270" y="318" class="style2">00</text> <!-- p2_f15_a -->
-  <text x="290" y="318" class="style2">00</text> <!-- p2_f15_b -->
-  <text x="310" y="318" class="style2">00</text> <!-- p2_f15_c -->
-  <text x="270" y="330" class="style2">00</text> <!-- p2_f16_a -->
-  <text x="290" y="330" class="style2">00</text> <!-- p2_f16_b -->
-  <text x="310" y="330" class="style2">00</text> <!-- p2_f16_c -->
-  <text x="270" y="342" class="style2">00</text> <!-- p2_f17_a -->
-  <text x="290" y="342" class="style2">00</text> <!-- p2_f17_b -->
-  <text x="310" y="342" class="style2">00</text> <!-- p2_f17_c -->
-  <text x="270" y="354" class="style2">00</text> <!-- p2_f18_a -->
-  <text x="290" y="354" class="style2">00</text> <!-- p2_f18_b -->
-  <text x="310" y="354" class="style2">00</text> <!-- p2_f18_c -->
-  <text x="270" y="366" class="style2">00</text> <!-- p2_f19_a -->
-  <text x="290" y="366" class="style2">00</text> <!-- p2_f19_b -->
-  <text x="310" y="366" class="style2">00</text> <!-- p2_f19_c -->
-  <text x="270" y="378" class="style2">00</text> <!-- p2_f20_a -->
-  <text x="290" y="378" class="style2">00</text> <!-- p2_f20_b -->
-  <text x="310" y="378" class="style2">00</text> <!-- p2_f20_c -->
+  <text x="250" y="150" class="style2">00</text> <!-- p2_f1_a -->
+  <text x="270" y="150" class="style2">00</text> <!-- p2_f1_b -->
+  <text x="290" y="150" class="style2">00</text> <!-- p2_f1_c -->
+  <text x="250" y="162" class="style2">00</text> <!-- p2_f2_a -->
+  <text x="270" y="162" class="style2">00</text> <!-- p2_f2_b -->
+  <text x="290" y="162" class="style2">00</text> <!-- p2_f2_c -->
+  <text x="250" y="174" class="style2">00</text> <!-- p2_f3_a -->
+  <text x="270" y="174" class="style2">00</text> <!-- p2_f3_b -->
+  <text x="290" y="174" class="style2">00</text> <!-- p2_f3_c -->
+  <text x="250" y="186" class="style2">00</text> <!-- p2_f4_a -->
+  <text x="270" y="186" class="style2">00</text> <!-- p2_f4_b -->
+  <text x="290" y="186" class="style2">00</text> <!-- p2_f4_c -->
+  <text x="250" y="198" class="style2">00</text> <!-- p2_f5_a -->
+  <text x="270" y="198" class="style2">00</text> <!-- p2_f5_b -->
+  <text x="290" y="198" class="style2">00</text> <!-- p2_f5_c -->
+  <text x="250" y="210" class="style2">00</text> <!-- p2_f6_a -->
+  <text x="270" y="210" class="style2">00</text> <!-- p2_f6_b -->
+  <text x="290" y="210" class="style2">00</text> <!-- p2_f6_c -->
+  <text x="250" y="222" class="style2">00</text> <!-- p2_f7_a -->
+  <text x="270" y="222" class="style2">00</text> <!-- p2_f7_b -->
+  <text x="290" y="222" class="style2">00</text> <!-- p2_f7_c -->
+  <text x="250" y="234" class="style2">00</text> <!-- p2_f8_a -->
+  <text x="270" y="234" class="style2">00</text> <!-- p2_f8_b -->
+  <text x="290" y="234" class="style2">00</text> <!-- p2_f8_c -->
+  <text x="250" y="246" class="style2">00</text> <!-- p2_f9_a -->
+  <text x="270" y="246" class="style2">00</text> <!-- p2_f9_b -->
+  <text x="290" y="246" class="style2">00</text> <!-- p2_f9_c -->
+  <text x="250" y="258" class="style2">00</text> <!-- p2_f10_a -->
+  <text x="270" y="258" class="style2">00</text> <!-- p2_f10_b -->
+  <text x="290" y="258" class="style2">00</text> <!-- p2_f10_c -->
+  <text x="250" y="270" class="style2">00</text> <!-- p2_f11_a -->
+  <text x="270" y="270" class="style2">00</text> <!-- p2_f11_b -->
+  <text x="290" y="270" class="style2">00</text> <!-- p2_f11_c -->
+  <text x="250" y="282" class="style2">00</text> <!-- p2_f12_a -->
+  <text x="270" y="282" class="style2">00</text> <!-- p2_f12_b -->
+  <text x="290" y="282" class="style2">00</text> <!-- p2_f12_c -->
+  <text x="250" y="294" class="style2">00</text> <!-- p2_f13_a -->
+  <text x="270" y="294" class="style2">00</text> <!-- p2_f13_b -->
+  <text x="290" y="294" class="style2">00</text> <!-- p2_f13_c -->
+  <text x="250" y="306" class="style2">00</text> <!-- p2_f14_a -->
+  <text x="270" y="306" class="style2">00</text> <!-- p2_f14_b -->
+  <text x="290" y="306" class="style2">00</text> <!-- p2_f14_c -->
+  <text x="250" y="318" class="style2">00</text> <!-- p2_f15_a -->
+  <text x="270" y="318" class="style2">00</text> <!-- p2_f15_b -->
+  <text x="290" y="318" class="style2">00</text> <!-- p2_f15_c -->
+  <text x="250" y="330" class="style2">00</text> <!-- p2_f16_a -->
+  <text x="270" y="330" class="style2">00</text> <!-- p2_f16_b -->
+  <text x="290" y="330" class="style2">00</text> <!-- p2_f16_c -->
   <!-- DATOS BIMESTRE 2 INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 3 INTERNO INICIO (Sofi)-->
-  <text x="340" y="150" class="style2">00</text> <!-- p3_f1_a -->
-  <text x="360" y="150" class="style2">00</text> <!-- p3_f1_b -->
-  <text x="380" y="150" class="style2">00</text> <!-- p3_f1_c -->
-  <text x="340" y="162" class="style2">00</text> <!-- p3_f2_a -->
-  <text x="360" y="162" class="style2">00</text> <!-- p3_f2_b -->
-  <text x="380" y="162" class="style2">00</text> <!-- p3_f2_c -->
-  <text x="340" y="174" class="style2">00</text> <!-- p3_f3_a -->
-  <text x="360" y="174" class="style2">00</text> <!-- p3_f3_b -->
-  <text x="380" y="174" class="style2">00</text> <!-- p3_f3_c -->
-  <text x="340" y="186" class="style2">00</text> <!-- p3_f4_a -->
-  <text x="360" y="186" class="style2">00</text> <!-- p3_f4_b -->
-  <text x="380" y="186" class="style2">00</text> <!-- p3_f4_c -->
-  <text x="340" y="198" class="style2">00</text> <!-- p3_f5_a -->
-  <text x="360" y="198" class="style2">00</text> <!-- p3_f5_b -->
-  <text x="380" y="198" class="style2">00</text> <!-- p3_f5_c -->
-  <text x="340" y="210" class="style2">00</text> <!-- p3_f6_a -->
-  <text x="360" y="210" class="style2">00</text> <!-- p3_f6_b -->
-  <text x="380" y="210" class="style2">00</text> <!-- p3_f6_c -->
-  <text x="340" y="222" class="style2">00</text> <!-- p3_f7_a -->
-  <text x="360" y="222" class="style2">00</text> <!-- p3_f7_b -->
-  <text x="380" y="222" class="style2">00</text> <!-- p3_f7_c -->
-  <text x="340" y="234" class="style2">00</text> <!-- p3_f8_a -->
-  <text x="360" y="234" class="style2">00</text> <!-- p3_f8_b -->
-  <text x="380" y="234" class="style2">00</text> <!-- p3_f8_c -->
-  <text x="340" y="246" class="style2">00</text> <!-- p3_f9_a -->
-  <text x="360" y="246" class="style2">00</text> <!-- p3_f9_b -->
-  <text x="380" y="246" class="style2">00</text> <!-- p3_f9_c -->
-  <text x="340" y="258" class="style2">00</text> <!-- p3_f10_a -->
-  <text x="360" y="258" class="style2">00</text> <!-- p3_f10_b -->
-  <text x="380" y="258" class="style2">00</text> <!-- p3_f10_c -->
-  <text x="340" y="270" class="style2">00</text> <!-- p3_f11_a -->
-  <text x="360" y="270" class="style2">00</text> <!-- p3_f11_b -->
-  <text x="380" y="270" class="style2">00</text> <!-- p3_f11_c -->
-  <text x="340" y="282" class="style2">00</text> <!-- p3_f12_a -->
-  <text x="360" y="282" class="style2">00</text> <!-- p3_f12_b -->
-  <text x="380" y="282" class="style2">00</text> <!-- p3_f12_c -->
-  <text x="340" y="294" class="style2">00</text> <!-- p3_f13_a -->
-  <text x="360" y="294" class="style2">00</text> <!-- p3_f13_b -->
-  <text x="380" y="294" class="style2">00</text> <!-- p3_f13_c -->
-  <text x="340" y="306" class="style2">00</text> <!-- p3_f14_a -->
-  <text x="360" y="306" class="style2">00</text> <!-- p3_f14_b -->
-  <text x="380" y="306" class="style2">00</text> <!-- p3_f14_c -->
-  <text x="340" y="318" class="style2">00</text> <!-- p3_f15_a -->
-  <text x="360" y="318" class="style2">00</text> <!-- p3_f15_b -->
-  <text x="380" y="318" class="style2">00</text> <!-- p3_f15_c -->
-  <text x="340" y="330" class="style2">00</text> <!-- p3_f16_a -->
-  <text x="360" y="330" class="style2">00</text> <!-- p3_f16_b -->
-  <text x="380" y="330" class="style2">00</text> <!-- p3_f16_c -->
-  <text x="340" y="342" class="style2">00</text> <!-- p3_f17_a -->
-  <text x="360" y="342" class="style2">00</text> <!-- p3_f17_b -->
-  <text x="380" y="342" class="style2">00</text> <!-- p3_f17_c -->
-  <text x="340" y="354" class="style2">00</text> <!-- p3_f18_a -->
-  <text x="360" y="354" class="style2">00</text> <!-- p3_f18_b -->
-  <text x="380" y="354" class="style2">00</text> <!-- p3_f18_c -->
-  <text x="340" y="366" class="style2">00</text> <!-- p3_f19_a -->
-  <text x="360" y="366" class="style2">00</text> <!-- p3_f19_b -->
-  <text x="380" y="366" class="style2">00</text> <!-- p3_f19_c -->
-  <text x="340" y="378" class="style2">00</text> <!-- p3_f20_a -->
-  <text x="360" y="378" class="style2">00</text> <!-- p3_f20_b -->
-  <text x="380" y="378" class="style2">00</text> <!-- p3_f20_c -->
+  <text x="320" y="150" class="style2">00</text> <!-- p3_f1_a -->
+  <text x="340" y="150" class="style2">00</text> <!-- p3_f1_b -->
+  <text x="360" y="150" class="style2">00</text> <!-- p3_f1_c -->
+  <text x="320" y="162" class="style2">00</text> <!-- p3_f2_a -->
+  <text x="340" y="162" class="style2">00</text> <!-- p3_f2_b -->
+  <text x="360" y="162" class="style2">00</text> <!-- p3_f2_c -->
+  <text x="320" y="174" class="style2">00</text> <!-- p3_f3_a -->
+  <text x="340" y="174" class="style2">00</text> <!-- p3_f3_b -->
+  <text x="360" y="174" class="style2">00</text> <!-- p3_f3_c -->
+  <text x="320" y="186" class="style2">00</text> <!-- p3_f4_a -->
+  <text x="340" y="186" class="style2">00</text> <!-- p3_f4_b -->
+  <text x="360" y="186" class="style2">00</text> <!-- p3_f4_c -->
+  <text x="320" y="198" class="style2">00</text> <!-- p3_f5_a -->
+  <text x="340" y="198" class="style2">00</text> <!-- p3_f5_b -->
+  <text x="360" y="198" class="style2">00</text> <!-- p3_f5_c -->
+  <text x="320" y="210" class="style2">00</text> <!-- p3_f6_a -->
+  <text x="340" y="210" class="style2">00</text> <!-- p3_f6_b -->
+  <text x="360" y="210" class="style2">00</text> <!-- p3_f6_c -->
+  <text x="320" y="222" class="style2">00</text> <!-- p3_f7_a -->
+  <text x="340" y="222" class="style2">00</text> <!-- p3_f7_b -->
+  <text x="360" y="222" class="style2">00</text> <!-- p3_f7_c -->
+  <text x="320" y="234" class="style2">00</text> <!-- p3_f8_a -->
+  <text x="340" y="234" class="style2">00</text> <!-- p3_f8_b -->
+  <text x="360" y="234" class="style2">00</text> <!-- p3_f8_c -->
+  <text x="320" y="246" class="style2">00</text> <!-- p3_f9_a -->
+  <text x="340" y="246" class="style2">00</text> <!-- p3_f9_b -->
+  <text x="360" y="246" class="style2">00</text> <!-- p3_f9_c -->
+  <text x="320" y="258" class="style2">00</text> <!-- p3_f10_a -->
+  <text x="340" y="258" class="style2">00</text> <!-- p3_f10_b -->
+  <text x="360" y="258" class="style2">00</text> <!-- p3_f10_c -->
+  <text x="320" y="270" class="style2">00</text> <!-- p3_f11_a -->
+  <text x="340" y="270" class="style2">00</text> <!-- p3_f11_b -->
+  <text x="360" y="270" class="style2">00</text> <!-- p3_f11_c -->
+  <text x="320" y="282" class="style2">00</text> <!-- p3_f12_a -->
+  <text x="340" y="282" class="style2">00</text> <!-- p3_f12_b -->
+  <text x="360" y="282" class="style2">00</text> <!-- p3_f12_c -->
+  <text x="320" y="294" class="style2">00</text> <!-- p3_f13_a -->
+  <text x="340" y="294" class="style2">00</text> <!-- p3_f13_b -->
+  <text x="360" y="294" class="style2">00</text> <!-- p3_f13_c -->
+  <text x="320" y="306" class="style2">00</text> <!-- p3_f14_a -->
+  <text x="340" y="306" class="style2">00</text> <!-- p3_f14_b -->
+  <text x="360" y="306" class="style2">00</text> <!-- p3_f14_c -->
+  <text x="320" y="318" class="style2">00</text> <!-- p3_f15_a -->
+  <text x="340" y="318" class="style2">00</text> <!-- p3_f15_b -->
+  <text x="360" y="318" class="style2">00</text> <!-- p3_f15_c -->
+  <text x="320" y="330" class="style2">00</text> <!-- p3_f16_a -->
+  <text x="340" y="330" class="style2">00</text> <!-- p3_f16_b -->
+  <text x="360" y="330" class="style2">00</text> <!-- p3_f16_c -->
   <!-- DATOS BIMESTRE 3 INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 4 INTERNO INICIO (Sofi) -->
-  <text x="410" y="150" class="style2">00</text> <!-- p4_f1_a -->
-  <text x="430" y="150" class="style2">00</text> <!-- p4_f1_b -->
-  <text x="450" y="150" class="style2">00</text> <!-- p4_f1_c -->
-  <text x="410" y="162" class="style2">00</text> <!-- p4_f2_a -->
-  <text x="430" y="162" class="style2">00</text> <!-- p4_f2_b -->
-  <text x="450" y="162" class="style2">00</text> <!-- p4_f2_c -->
-  <text x="410" y="174" class="style2">00</text> <!-- p4_f3_a -->
-  <text x="430" y="174" class="style2">00</text> <!-- p4_f3_b -->
-  <text x="450" y="174" class="style2">00</text> <!-- p4_f3_c -->
-  <text x="410" y="186" class="style2">00</text> <!-- p4_f4_a -->
-  <text x="430" y="186" class="style2">00</text> <!-- p4_f4_b -->
-  <text x="450" y="186" class="style2">00</text> <!-- p4_f4_c -->
-  <text x="410" y="198" class="style2">00</text> <!-- p4_f5_a -->
-  <text x="430" y="198" class="style2">00</text> <!-- p4_f5_b -->
-  <text x="450" y="198" class="style2">00</text> <!-- p4_f5_c -->
-  <text x="410" y="210" class="style2">00</text> <!-- p4_f6_a -->
-  <text x="430" y="210" class="style2">00</text> <!-- p4_f6_b -->
-  <text x="450" y="210" class="style2">00</text> <!-- p4_f6_c -->
-  <text x="410" y="222" class="style2">00</text> <!-- p4_f7_a -->
-  <text x="430" y="222" class="style2">00</text> <!-- p4_f7_b -->
-  <text x="450" y="222" class="style2">00</text> <!-- p4_f7_c -->
-  <text x="410" y="234" class="style2">00</text> <!-- p4_f8_a -->
-  <text x="430" y="234" class="style2">00</text> <!-- p4_f8_b -->
-  <text x="450" y="234" class="style2">00</text> <!-- p4_f8_c -->
-  <text x="410" y="246" class="style2">00</text> <!-- p4_f9_a -->
-  <text x="430" y="246" class="style2">00</text> <!-- p4_f9_b -->
-  <text x="450" y="246" class="style2">00</text> <!-- p4_f9_c -->
-  <text x="410" y="258" class="style2">00</text> <!-- p4_f10_a -->
-  <text x="430" y="258" class="style2">00</text> <!-- p4_f10_b -->
-  <text x="450" y="258" class="style2">00</text> <!-- p4_f10_c -->
-  <text x="410" y="270" class="style2">00</text> <!-- p4_f11_a -->
-  <text x="430" y="270" class="style2">00</text> <!-- p4_f11_b -->
-  <text x="450" y="270" class="style2">00</text> <!-- p4_f11_c -->
-  <text x="410" y="282" class="style2">00</text> <!-- p4_f12_a -->
-  <text x="430" y="282" class="style2">00</text> <!-- p4_f12_b -->
-  <text x="450" y="282" class="style2">00</text> <!-- p4_f12_c -->
-  <text x="410" y="294" class="style2">00</text> <!-- p4_f13_a -->
-  <text x="430" y="294" class="style2">00</text> <!-- p4_f13_b -->
-  <text x="450" y="294" class="style2">00</text> <!-- p4_f13_c -->
-  <text x="410" y="306" class="style2">00</text> <!-- p4_f14_a -->
-  <text x="430" y="306" class="style2">00</text> <!-- p4_f14_b -->
-  <text x="450" y="306" class="style2">00</text> <!-- p4_f14_c -->
-  <text x="410" y="318" class="style2">00</text> <!-- p4_f15_a -->
-  <text x="430" y="318" class="style2">00</text> <!-- p4_f15_b -->
-  <text x="450" y="318" class="style2">00</text> <!-- p4_f15_c -->
-  <text x="410" y="330" class="style2">00</text> <!-- p4_f16_a -->
-  <text x="430" y="330" class="style2">00</text> <!-- p4_f16_b -->
-  <text x="450" y="330" class="style2">00</text> <!-- p4_f16_c -->
-  <text x="410" y="342" class="style2">00</text> <!-- p4_f17_a -->
-  <text x="430" y="342" class="style2">00</text> <!-- p4_f17_b -->
-  <text x="450" y="342" class="style2">00</text> <!-- p4_f17_c -->
-  <text x="410" y="354" class="style2">00</text> <!-- p4_f18_a -->
-  <text x="430" y="354" class="style2">00</text> <!-- p4_f18_b -->
-  <text x="450" y="354" class="style2">00</text> <!-- p4_f18_c -->
-  <text x="410" y="366" class="style2">00</text> <!-- p4_f19_a -->
-  <text x="430" y="366" class="style2">00</text> <!-- p4_f19_b -->
-  <text x="450" y="366" class="style2">00</text> <!-- p4_f19_c -->
-  <text x="410" y="378" class="style2">00</text> <!-- p4_f20_a -->
-  <text x="430" y="378" class="style2">00</text> <!-- p4_f20_b -->
-  <text x="450" y="378" class="style2">00</text> <!-- p4_f20_c -->
+  <text x="390" y="150" class="style2">00</text> <!-- p4_f1_a -->
+  <text x="410" y="150" class="style2">00</text> <!-- p4_f1_b -->
+  <text x="430" y="150" class="style2">00</text> <!-- p4_f1_c -->
+  <text x="390" y="162" class="style2">00</text> <!-- p4_f2_a -->
+  <text x="410" y="162" class="style2">00</text> <!-- p4_f2_b -->
+  <text x="430" y="162" class="style2">00</text> <!-- p4_f2_c -->
+  <text x="390" y="174" class="style2">00</text> <!-- p4_f3_a -->
+  <text x="410" y="174" class="style2">00</text> <!-- p4_f3_b -->
+  <text x="430" y="174" class="style2">00</text> <!-- p4_f3_c -->
+  <text x="390" y="186" class="style2">00</text> <!-- p4_f4_a -->
+  <text x="410" y="186" class="style2">00</text> <!-- p4_f4_b -->
+  <text x="430" y="186" class="style2">00</text> <!-- p4_f4_c -->
+  <text x="390" y="198" class="style2">00</text> <!-- p4_f5_a -->
+  <text x="410" y="198" class="style2">00</text> <!-- p4_f5_b -->
+  <text x="430" y="198" class="style2">00</text> <!-- p4_f5_c -->
+  <text x="390" y="210" class="style2">00</text> <!-- p4_f6_a -->
+  <text x="410" y="210" class="style2">00</text> <!-- p4_f6_b -->
+  <text x="430" y="210" class="style2">00</text> <!-- p4_f6_c -->
+  <text x="390" y="222" class="style2">00</text> <!-- p4_f7_a -->
+  <text x="410" y="222" class="style2">00</text> <!-- p4_f7_b -->
+  <text x="430" y="222" class="style2">00</text> <!-- p4_f7_c -->
+  <text x="390" y="234" class="style2">00</text> <!-- p4_f8_a -->
+  <text x="410" y="234" class="style2">00</text> <!-- p4_f8_b -->
+  <text x="430" y="234" class="style2">00</text> <!-- p4_f8_c -->
+  <text x="390" y="246" class="style2">00</text> <!-- p4_f9_a -->
+  <text x="410" y="246" class="style2">00</text> <!-- p4_f9_b -->
+  <text x="430" y="246" class="style2">00</text> <!-- p4_f9_c -->
+  <text x="390" y="258" class="style2">00</text> <!-- p4_f10_a -->
+  <text x="410" y="258" class="style2">00</text> <!-- p4_f10_b -->
+  <text x="430" y="258" class="style2">00</text> <!-- p4_f10_c -->
+  <text x="390" y="270" class="style2">00</text> <!-- p4_f11_a -->
+  <text x="410" y="270" class="style2">00</text> <!-- p4_f11_b -->
+  <text x="430" y="270" class="style2">00</text> <!-- p4_f11_c -->
+  <text x="390" y="282" class="style2">00</text> <!-- p4_f12_a -->
+  <text x="410" y="282" class="style2">00</text> <!-- p4_f12_b -->
+  <text x="430" y="282" class="style2">00</text> <!-- p4_f12_c -->
+  <text x="390" y="294" class="style2">00</text> <!-- p4_f13_a -->
+  <text x="410" y="294" class="style2">00</text> <!-- p4_f13_b -->
+  <text x="430" y="294" class="style2">00</text> <!-- p4_f13_c -->
+  <text x="390" y="306" class="style2">00</text> <!-- p4_f14_a -->
+  <text x="410" y="306" class="style2">00</text> <!-- p4_f14_b -->
+  <text x="430" y="306" class="style2">00</text> <!-- p4_f14_c -->
+  <text x="390" y="318" class="style2">00</text> <!-- p4_f15_a -->
+  <text x="410" y="318" class="style2">00</text> <!-- p4_f15_b -->
+  <text x="430" y="318" class="style2">00</text> <!-- p4_f15_c -->
+  <text x="390" y="330" class="style2">00</text> <!-- p4_f16_a -->
+  <text x="410" y="330" class="style2">00</text> <!-- p4_f16_b -->
+  <text x="430" y="330" class="style2">00</text> <!-- p4_f16_c -->
   <!-- DATOS BIMESTRE 4 INTERNO FIN -->
 
   <!-- DATOS BIMESTRE 5 INTERNO INICIO (Sofi) -->
-  <text x="480" y="150" class="style2">00</text> <!-- p5_f1_a -->
-  <text x="500" y="150" class="style2">00</text> <!-- p5_f1_b -->
-  <text x="520" y="150" class="style2">00</text> <!-- p5_f1_c -->
-  <text x="480" y="162" class="style2">00</text> <!-- p5_f2_a -->
-  <text x="500" y="162" class="style2">00</text> <!-- p5_f2_b -->
-  <text x="520" y="162" class="style2">00</text> <!-- p5_f2_c -->
-  <text x="480" y="174" class="style2">00</text> <!-- p5_f3_a -->
-  <text x="500" y="174" class="style2">00</text> <!-- p5_f3_b -->
-  <text x="520" y="174" class="style2">00</text> <!-- p5_f3_c -->
-  <text x="480" y="186" class="style2">00</text> <!-- p5_f4_a -->
-  <text x="500" y="186" class="style2">00</text> <!-- p5_f4_b -->
-  <text x="520" y="186" class="style2">00</text> <!-- p5_f4_c -->
-  <text x="480" y="198" class="style2">00</text> <!-- p5_f5_a -->
-  <text x="500" y="198" class="style2">00</text> <!-- p5_f5_b -->
-  <text x="520" y="198" class="style2">00</text> <!-- p5_f5_c -->
-  <text x="480" y="210" class="style2">00</text> <!-- p5_f6_a -->
-  <text x="500" y="210" class="style2">00</text> <!-- p5_f6_b -->
-  <text x="520" y="210" class="style2">00</text> <!-- p5_f6_c -->
-  <text x="480" y="222" class="style2">00</text> <!-- p5_f7_a -->
-  <text x="500" y="222" class="style2">00</text> <!-- p5_f7_b -->
-  <text x="520" y="222" class="style2">00</text> <!-- p5_f7_c -->
-  <text x="480" y="234" class="style2">00</text> <!-- p5_f8_a -->
-  <text x="500" y="234" class="style2">00</text> <!-- p5_f8_b -->
-  <text x="520" y="234" class="style2">00</text> <!-- p5_f8_c -->
-  <text x="480" y="246" class="style2">00</text> <!-- p5_f9_a -->
-  <text x="500" y="246" class="style2">00</text> <!-- p5_f9_b -->
-  <text x="520" y="246" class="style2">00</text> <!-- p5_f9_c -->
-  <text x="480" y="258" class="style2">00</text> <!-- p5_f10_a -->
-  <text x="500" y="258" class="style2">00</text> <!-- p5_f10_b -->
-  <text x="520" y="258" class="style2">00</text> <!-- p5_f10_c -->
-  <text x="480" y="270" class="style2">00</text> <!-- p5_f11_a -->
-  <text x="500" y="270" class="style2">00</text> <!-- p5_f11_b -->
-  <text x="520" y="270" class="style2">00</text> <!-- p5_f11_c -->
-  <text x="480" y="282" class="style2">00</text> <!-- p5_f12_a -->
-  <text x="500" y="282" class="style2">00</text> <!-- p5_f12_b -->
-  <text x="520" y="282" class="style2">00</text> <!-- p5_f12_c -->
-  <text x="480" y="294" class="style2">00</text> <!-- p5_f13_a -->
-  <text x="500" y="294" class="style2">00</text> <!-- p5_f13_b -->
-  <text x="520" y="294" class="style2">00</text> <!-- p5_f13_c -->
-  <text x="480" y="306" class="style2">00</text> <!-- p5_f14_a -->
-  <text x="500" y="306" class="style2">00</text> <!-- p5_f14_b -->
-  <text x="520" y="306" class="style2">00</text> <!-- p5_f14_c -->
-  <text x="480" y="318" class="style2">00</text> <!-- p5_f15_a -->
-  <text x="500" y="318" class="style2">00</text> <!-- p5_f15_b -->
-  <text x="520" y="318" class="style2">00</text> <!-- p5_f15_c -->
-  <text x="480" y="330" class="style2">00</text> <!-- p5_f16_a -->
-  <text x="500" y="330" class="style2">00</text> <!-- p5_f16_b -->
-  <text x="520" y="330" class="style2">00</text> <!-- p5_f16_c -->
-  <text x="480" y="342" class="style2">00</text> <!-- p5_f17_a -->
-  <text x="500" y="342" class="style2">00</text> <!-- p5_f17_b -->
-  <text x="520" y="342" class="style2">00</text> <!-- p5_f17_c -->
-  <text x="480" y="354" class="style2">00</text> <!-- p5_f18_a -->
-  <text x="500" y="354" class="style2">00</text> <!-- p5_f18_b -->
-  <text x="520" y="354" class="style2">00</text> <!-- p5_f18_c -->
-  <text x="480" y="366" class="style2">00</text> <!-- p5_f19_a -->
-  <text x="500" y="366" class="style2">00</text> <!-- p5_f19_b -->
-  <text x="520" y="366" class="style2">00</text> <!-- p5_f19_c -->
-  <text x="480" y="378" class="style2">00</text> <!-- p5_f20_a -->
-  <text x="500" y="378" class="style2">00</text> <!-- p5_f20_b -->
-  <text x="520" y="378" class="style2">00</text> <!-- p5_f20_c -->
+  <text x="460" y="150" class="style2">00</text> <!-- p5_f1_a -->
+  <text x="480" y="150" class="style2">00</text> <!-- p5_f1_b -->
+  <text x="500" y="150" class="style2">00</text> <!-- p5_f1_c -->
+  <text x="460" y="162" class="style2">00</text> <!-- p5_f2_a -->
+  <text x="480" y="162" class="style2">00</text> <!-- p5_f2_b -->
+  <text x="500" y="162" class="style2">00</text> <!-- p5_f2_c -->
+  <text x="460" y="174" class="style2">00</text> <!-- p5_f3_a -->
+  <text x="480" y="174" class="style2">00</text> <!-- p5_f3_b -->
+  <text x="500" y="174" class="style2">00</text> <!-- p5_f3_c -->
+  <text x="460" y="186" class="style2">00</text> <!-- p5_f4_a -->
+  <text x="480" y="186" class="style2">00</text> <!-- p5_f4_b -->
+  <text x="500" y="186" class="style2">00</text> <!-- p5_f4_c -->
+  <text x="460" y="198" class="style2">00</text> <!-- p5_f5_a -->
+  <text x="480" y="198" class="style2">00</text> <!-- p5_f5_b -->
+  <text x="500" y="198" class="style2">00</text> <!-- p5_f5_c -->
+  <text x="460" y="210" class="style2">00</text> <!-- p5_f6_a -->
+  <text x="480" y="210" class="style2">00</text> <!-- p5_f6_b -->
+  <text x="500" y="210" class="style2">00</text> <!-- p5_f6_c -->
+  <text x="460" y="222" class="style2">00</text> <!-- p5_f7_a -->
+  <text x="480" y="222" class="style2">00</text> <!-- p5_f7_b -->
+  <text x="500" y="222" class="style2">00</text> <!-- p5_f7_c -->
+  <text x="460" y="234" class="style2">00</text> <!-- p5_f8_a -->
+  <text x="480" y="234" class="style2">00</text> <!-- p5_f8_b -->
+  <text x="500" y="234" class="style2">00</text> <!-- p5_f8_c -->
+  <text x="460" y="246" class="style2">00</text> <!-- p5_f9_a -->
+  <text x="480" y="246" class="style2">00</text> <!-- p5_f9_b -->
+  <text x="500" y="246" class="style2">00</text> <!-- p5_f9_c -->
+  <text x="460" y="258" class="style2">00</text> <!-- p5_f10_a -->
+  <text x="480" y="258" class="style2">00</text> <!-- p5_f10_b -->
+  <text x="500" y="258" class="style2">00</text> <!-- p5_f10_c -->
+  <text x="460" y="270" class="style2">00</text> <!-- p5_f11_a -->
+  <text x="480" y="270" class="style2">00</text> <!-- p5_f11_b -->
+  <text x="500" y="270" class="style2">00</text> <!-- p5_f11_c -->
+  <text x="460" y="282" class="style2">00</text> <!-- p5_f12_a -->
+  <text x="480" y="282" class="style2">00</text> <!-- p5_f12_b -->
+  <text x="500" y="282" class="style2">00</text> <!-- p5_f12_c -->
+  <text x="460" y="294" class="style2">00</text> <!-- p5_f13_a -->
+  <text x="480" y="294" class="style2">00</text> <!-- p5_f13_b -->
+  <text x="500" y="294" class="style2">00</text> <!-- p5_f13_c -->
+  <text x="460" y="306" class="style2">00</text> <!-- p5_f14_a -->
+  <text x="480" y="306" class="style2">00</text> <!-- p5_f14_b -->
+  <text x="500" y="306" class="style2">00</text> <!-- p5_f14_c -->
+  <text x="460" y="318" class="style2">00</text> <!-- p5_f15_a -->
+  <text x="480" y="318" class="style2">00</text> <!-- p5_f15_b -->
+  <text x="500" y="318" class="style2">00</text> <!-- p5_f15_c -->
+  <text x="460" y="330" class="style2">00</text> <!-- p5_f16_a -->
+  <text x="480" y="330" class="style2">00</text> <!-- p5_f16_b -->
+  <text x="500" y="330" class="style2">00</text> <!-- p5_f16_c -->
   <!-- DATOS BIMESTRE 5 INTERNO FIN -->
 
   <!-- DATOS PROMEDIO FINAL BIM INICIO (Sofi) -->
-  <text x="550" y="150" class="style2">00</text> <!-- p6_f1_a -->
-  <text x="570" y="150" class="style2">00</text> <!-- p6_f1_b -->
-  <text x="590" y="150" class="style2">00</text> <!-- p6_f1_c -->
-  <text x="550" y="162" class="style2">00</text> <!-- p6_f2_a -->
-  <text x="570" y="162" class="style2">00</text> <!-- p6_f2_b -->
-  <text x="590" y="162" class="style2">00</text> <!-- p6_f2_c -->
-  <text x="550" y="174" class="style2">00</text> <!-- p6_f3_a -->
-  <text x="570" y="174" class="style2">00</text> <!-- p6_f3_b -->
-  <text x="590" y="174" class="style2">00</text> <!-- p6_f3_c -->
-  <text x="550" y="186" class="style2">00</text> <!-- p6_f4_a -->
-  <text x="570" y="186" class="style2">00</text> <!-- p6_f4_b -->
-  <text x="590" y="186" class="style2">00</text> <!-- p6_f4_c -->
-  <text x="570" y="198" class="style2">00</text> <!-- p6_f5_a -->
+  <text x="530" y="150" class="style2">00</text> <!-- p6_f1_a -->
+  <text x="550" y="150" class="style2">00</text> <!-- p6_f1_b -->
+  <text x="570" y="150" class="style2">00</text> <!-- p6_f1_c -->
+  <text x="530" y="162" class="style2">00</text> <!-- p6_f2_a -->
+  <text x="550" y="162" class="style2">00</text> <!-- p6_f2_b -->
+  <text x="570" y="162" class="style2">00</text> <!-- p6_f2_c -->
+  <text x="530" y="174" class="style2">00</text> <!-- p6_f3_a -->
+  <text x="550" y="174" class="style2">00</text> <!-- p6_f3_b -->
+  <text x="570" y="174" class="style2">00</text> <!-- p6_f3_c -->
+  <text x="530" y="186" class="style2">00</text> <!-- p6_f4_a -->
+  <text x="550" y="186" class="style2">00</text> <!-- p6_f4_b -->
+  <text x="570" y="186" class="style2">00</text> <!-- p6_f4_c -->
+  <text x="530" y="198" class="style2">00</text> <!-- p6_f5_a -->
   <text x="550" y="198" class="style2">00</text> <!-- p6_f5_b -->
-  <text x="590" y="198" class="style2">00</text> <!-- p6_f5_c -->
-  <text x="550" y="210" class="style2">00</text> <!-- p6_f6_a -->
-  <text x="570" y="210" class="style2">00</text> <!-- p6_f6_b -->
-  <text x="590" y="210" class="style2">00</text> <!-- p6_f6_c -->
-  <text x="550" y="222" class="style2">00</text> <!-- p6_f7_a -->
-  <text x="570" y="222" class="style2">00</text> <!-- p6_f7_b -->
-  <text x="590" y="222" class="style2">00</text> <!-- p6_f7_c -->
-  <text x="550" y="234" class="style2">00</text> <!-- p6_f8_a -->
-  <text x="570" y="234" class="style2">00</text> <!-- p6_f8_b -->
-  <text x="590" y="234" class="style2">00</text> <!-- p6_f8_c -->
-  <text x="550" y="246" class="style2">00</text> <!-- p6_f9_a -->
-  <text x="570" y="246" class="style2">00</text> <!-- p6_f9_b -->
-  <text x="590" y="246" class="style2">00</text> <!-- p6_f9_c -->
-  <text x="550" y="258" class="style2">00</text> <!-- p6_f10_a -->
-  <text x="570" y="258" class="style2">00</text> <!-- p6_f10_b -->
-  <text x="590" y="258" class="style2">00</text> <!-- p6_f10_c -->
-  <text x="550" y="270" class="style2">00</text> <!-- p6_f11_a -->
-  <text x="570" y="270" class="style2">00</text> <!-- p6_f11_b -->
-  <text x="590" y="270" class="style2">00</text> <!-- p6_f11_c -->
-  <text x="550" y="282" class="style2">00</text> <!-- p6_f12_a -->
-  <text x="570" y="282" class="style2">00</text> <!-- p6_f12_b -->
-  <text x="590" y="282" class="style2">00</text> <!-- p6_f12_c -->
-  <text x="550" y="294" class="style2">00</text> <!-- p6_f13_a -->
-  <text x="570" y="294" class="style2">00</text> <!-- p6_f13_b -->
-  <text x="590" y="294" class="style2">00</text> <!-- p6_f13_c -->
-  <text x="550" y="306" class="style2">00</text> <!-- p6_f14_a -->
-  <text x="570" y="306" class="style2">00</text> <!-- p6_f14_b -->
-  <text x="590" y="306" class="style2">00</text> <!-- p6_f14_c -->
-  <text x="550" y="318" class="style2">00</text> <!-- p6_f15_a -->
-  <text x="570" y="318" class="style2">00</text> <!-- p6_f15_b -->
-  <text x="590" y="318" class="style2">00</text> <!-- p6_f15_c -->
-  <text x="550" y="330" class="style2">00</text> <!-- p6_f16_a -->
-  <text x="570" y="330" class="style2">00</text> <!-- p6_f16_b -->
-  <text x="590" y="330" class="style2">00</text> <!-- p6_f16_c -->
-  <text x="550" y="342" class="style2">00</text> <!-- p6_f17_a -->
-  <text x="570" y="342" class="style2">00</text> <!-- p6_f17_b -->
-  <text x="590" y="342" class="style2">00</text> <!-- p6_f17_c -->
-  <text x="550" y="354" class="style2">00</text> <!-- p6_f18_a -->
-  <text x="570" y="354" class="style2">00</text> <!-- p6_f18_b -->
-  <text x="590" y="354" class="style2">00</text> <!-- p6_f18_c -->
-  <text x="550" y="366" class="style2">00</text> <!-- p6_f19_a -->
-  <text x="570" y="366" class="style2">00</text> <!-- p6_f19_b -->
-  <text x="590" y="366" class="style2">00</text> <!-- p6_f19_c -->
-  <text x="550" y="378" class="style2">00</text> <!-- p6_f20_a -->
-  <text x="570" y="378" class="style2">00</text> <!-- p6_f20_b -->
-  <text x="590" y="378" class="style2">00</text> <!-- p6_f20_c -->
+  <text x="570" y="198" class="style2">00</text> <!-- p6_f5_c -->
+  <text x="530" y="210" class="style2">00</text> <!-- p6_f6_a -->
+  <text x="550" y="210" class="style2">00</text> <!-- p6_f6_b -->
+  <text x="570" y="210" class="style2">00</text> <!-- p6_f6_c -->
+  <text x="530" y="222" class="style2">00</text> <!-- p6_f7_a -->
+  <text x="550" y="222" class="style2">00</text> <!-- p6_f7_b -->
+  <text x="570" y="222" class="style2">00</text> <!-- p6_f7_c -->
+  <text x="530" y="234" class="style2">00</text> <!-- p6_f8_a -->
+  <text x="550" y="234" class="style2">00</text> <!-- p6_f8_b -->
+  <text x="570" y="234" class="style2">00</text> <!-- p6_f8_c -->
+  <text x="530" y="246" class="style2">00</text> <!-- p6_f9_a -->
+  <text x="550" y="246" class="style2">00</text> <!-- p6_f9_b -->
+  <text x="570" y="246" class="style2">00</text> <!-- p6_f9_c -->
+  <text x="530" y="258" class="style2">00</text> <!-- p6_f10_a -->
+  <text x="550" y="258" class="style2">00</text> <!-- p6_f10_b -->
+  <text x="570" y="258" class="style2">00</text> <!-- p6_f10_c -->
+  <text x="530" y="270" class="style2">00</text> <!-- p6_f11_a -->
+  <text x="550" y="270" class="style2">00</text> <!-- p6_f11_b -->
+  <text x="570" y="270" class="style2">00</text> <!-- p6_f11_c -->
+  <text x="530" y="282" class="style2">00</text> <!-- p6_f12_a -->
+  <text x="550" y="282" class="style2">00</text> <!-- p6_f12_b -->
+  <text x="570" y="282" class="style2">00</text> <!-- p6_f12_c -->
+  <text x="530" y="294" class="style2">00</text> <!-- p6_f13_a -->
+  <text x="550" y="294" class="style2">00</text> <!-- p6_f13_b -->
+  <text x="570" y="294" class="style2">00</text> <!-- p6_f13_c -->
+  <text x="530" y="306" class="style2">00</text> <!-- p6_f14_a -->
+  <text x="550" y="306" class="style2">00</text> <!-- p6_f14_b -->
+  <text x="570" y="306" class="style2">00</text> <!-- p6_f14_c -->
+  <text x="530" y="318" class="style2">00</text> <!-- p6_f15_a -->
+  <text x="550" y="318" class="style2">00</text> <!-- p6_f15_b -->
+  <text x="570" y="318" class="style2">00</text> <!-- p6_f15_c -->
+  <text x="530" y="330" class="style2">00</text> <!-- p6_f16_a -->
+  <text x="550" y="330" class="style2">00</text> <!-- p6_f16_b -->
+  <text x="570" y="330" class="style2">00</text> <!-- p6_f16_c -->
   <!-- DAYOS PROMEDIO FINAL BIM FIN  -->
 
 
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
-  <text x="220" y="425" class="style3">__Periodo 1__</text> <!-- p1_e1 -->
-  <text x="320" y="425" class="style3">__Periodo 2__</text> <!-- p2_e2 -->
-  <text x="420" y="425" class="style3">__Periodo 3__</text> <!-- p3_e3 -->
-  <text x="540" y="425" class="style3">__Final__</text> <!-- p4_e4 -->
+  <text x="220" y="350" class="style3">__Periodo 1__</text> <!-- p1_e1 -->
+  <text x="320" y="350" class="style3">__Periodo 2__</text> <!-- p2_e2 -->
+  <text x="420" y="350" class="style3">__Periodo 3__</text> <!-- p3_e3 -->
+  <text x="535" y="350" class="style3">__Final__</text> <!-- p4_e4 -->
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
   <!-- ETIQUETAS MATERIAS OFICIAL INICIO (Sofi) -->
-  <text x="25" y="445" class="style3">__Lengua Materna Español I B12__</text> <!-- m1_e1 -->
-  <text x="25" y="457" class="style4">__Segunda Lengua: Ingles B10__</text> <!-- m2_e2 -->
-  <text x="25" y="469" class="style3">__m1_e3__</text>
-  <text x="25" y="481" class="style3">__m1_e4__</text>
+  <text x="25" y="372" class="style2">__Lengua Materna Español__</text> <!-- m1_e1 -->
+  <text x="25" y="384" class="style2">__Segunda Lengua: Ingles__</text> <!-- m2_e2 -->
+  <text x="25" y="396" class="style2">__m1_e3__</text>
+  <text x="25" y="408" class="style2">__m1_e4__</text>
+  <text x="25" y="420" class="style2">__m1_e5__</text>
+  <text x="25" y="432" class="style2">__m1_e6__</text>
+  <text x="25" y="444" class="style2">__m1_e7__</text>
+  <text x="25" y="456" class="style2">__m1_e8__</text>
+  <text x="25" y="468" class="style2">__m1_e9__</text>
+  <text x="25" y="480" class="style2">__m1_e10__</text>
   <!-- ETIQUETAS MATERIAS OFICIAL FIN -->
 
   <!-- DATOS PERIODO 1 OFICIAL INICIO (Sofi) -->
-  <text x="240" y="445" class="style2">00</text> <!-- p1_o1 -->
-  <text x="260" y="445" class="style2">00</text> <!-- p1_o1 -->
-  <text x="240" y="457" class="style2">00</text> <!-- p1_o2 -->
-  <text x="260" y="457" class="style2">00</text> <!-- p1_o2 -->
-  <text x="240" y="469" class="style2">00</text> <!-- p1_o3 -->
-  <text x="260" y="469" class="style2">00</text> <!-- p1_o3 -->
-  <text x="240" y="481" class="style2">00</text> <!-- p1_o4 -->
-  <text x="260" y="481" class="style2">00</text> <!-- p1_o4 -->
+  <text x="240" y="372" class="style2">00</text> <!-- p1_o1_a -->
+  <text x="260" y="372" class="style2">00</text> <!-- p1_o1_b -->
+  <text x="240" y="384" class="style2">00</text> <!-- p1_o2_a -->
+  <text x="260" y="384" class="style2">00</text> <!-- p1_o2_b -->
+  <text x="240" y="396" class="style2">00</text> <!-- p1_o3_a -->
+  <text x="260" y="396" class="style2">00</text> <!-- p1_o3_b -->
+  <text x="240" y="408" class="style2">00</text> <!-- p1_o4_a -->
+  <text x="260" y="408" class="style2">00</text> <!-- p1_o4_b -->
+  <text x="240" y="420" class="style2">00</text> <!-- p1_o5_a -->
+  <text x="260" y="420" class="style2">00</text> <!-- p1_o5_b -->
+  <text x="240" y="432" class="style2">00</text> <!-- p1_o6_a -->
+  <text x="260" y="432" class="style2">00</text> <!-- p1_o6_b -->
+  <text x="240" y="444" class="style2">00</text> <!-- p1_o7_a -->
+  <text x="260" y="444" class="style2">00</text> <!-- p1_o7_b -->
+  <text x="240" y="456" class="style2">00</text> <!-- p1_o8_a -->
+  <text x="260" y="456" class="style2">00</text> <!-- p1_o8_b -->
+  <text x="240" y="468" class="style2">00</text> <!-- p1_o9_a -->
+  <text x="260" y="468" class="style2">00</text> <!-- p1_o9_b -->
+  <text x="240" y="480" class="style2">00</text> <!-- p1_o10_a -->
+  <text x="260" y="480" class="style2">00</text> <!-- p1_o10_b -->
   <!-- DATOS PERIODO 1 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 2 OFICIAL INICIO (Sofi) -->
-  <text x="340" y="445" class="style2">00</text> <!-- p2_o1 -->
-  <text x="360" y="445" class="style2">00</text> <!-- p2_o1 -->
-  <text x="340" y="457" class="style2">00</text> <!-- p2_o2 -->
-  <text x="360" y="457" class="style2">00</text> <!-- p2_o2 -->
-  <text x="340" y="469" class="style2">00</text> <!-- p2_o3 -->
-  <text x="360" y="469" class="style2">00</text> <!-- p2_o3 -->
-  <text x="340" y="481" class="style2">00</text> <!-- p2_o4 -->
-  <text x="360" y="481" class="style2">00</text> <!-- p2_o4 -->
+  <text x="340" y="372" class="style2">00</text> <!-- p2_o1_a -->
+  <text x="360" y="372" class="style2">00</text> <!-- p2_o1_b -->
+  <text x="340" y="384" class="style2">00</text> <!-- p2_o2_a -->
+  <text x="360" y="384" class="style2">00</text> <!-- p2_o2_b -->
+  <text x="340" y="396" class="style2">00</text> <!-- p2_o3_a -->
+  <text x="360" y="396" class="style2">00</text> <!-- p2_o3_b -->
+  <text x="340" y="408" class="style2">00</text> <!-- p2_o4_a -->
+  <text x="360" y="408" class="style2">00</text> <!-- p2_o4_b -->
+  <text x="340" y="420" class="style2">00</text> <!-- p2_o5_a -->
+  <text x="360" y="420" class="style2">00</text> <!-- p2_o5_b -->
+  <text x="340" y="432" class="style2">00</text> <!-- p2_o6_a -->
+  <text x="360" y="432" class="style2">00</text> <!-- p2_o6_b -->
+  <text x="340" y="444" class="style2">00</text> <!-- p2_o7_a -->
+  <text x="360" y="444" class="style2">00</text> <!-- p2_o7_b -->
+  <text x="340" y="456" class="style2">00</text> <!-- p2_o8_a -->
+  <text x="360" y="456" class="style2">00</text> <!-- p2_o8_b -->
+  <text x="340" y="468" class="style2">00</text> <!-- p2_o9_a -->
+  <text x="360" y="468" class="style2">00</text> <!-- p2_o9_b -->
+  <text x="340" y="480" class="style2">00</text> <!-- p2_o10_a -->
+  <text x="360" y="480" class="style2">00</text> <!-- p2_o10_b -->
   <!-- DATOS PERIODO 2 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 3 OFICIAL INICIO (Sofi) -->
-  <text x="440" y="445" class="style2">00</text> <!-- p3_o1 -->
-  <text x="460" y="445" class="style2">00</text> <!-- p3_o1 -->
-  <text x="440" y="457" class="style2">00</text> <!-- p3_o2 -->
-  <text x="460" y="457" class="style2">00</text> <!-- p3_o2 -->
-  <text x="440" y="469" class="style2">00</text> <!-- p3_o3 -->
-  <text x="460" y="469" class="style2">00</text> <!-- p3_o3 -->
-  <text x="440" y="481" class="style2">00</text> <!-- p3_o4 -->  
-  <text x="460" y="481" class="style2">00</text> <!-- p3_o4 -->  
+  <text x="440" y="372" class="style2">00</text> <!-- p3_o1_a -->
+  <text x="460" y="372" class="style2">00</text> <!-- p3_o1_b -->
+  <text x="440" y="384" class="style2">00</text> <!-- p3_o2_a -->
+  <text x="460" y="384" class="style2">00</text> <!-- p3_o2_b -->
+  <text x="440" y="396" class="style2">00</text> <!-- p3_o3_a -->
+  <text x="460" y="396" class="style2">00</text> <!-- p3_o3_b -->
+  <text x="440" y="408" class="style2">00</text> <!-- p3_o4_a -->
+  <text x="460" y="408" class="style2">00</text> <!-- p3_o4_b -->
+  <text x="440" y="420" class="style2">00</text> <!-- p3_o5_a -->
+  <text x="460" y="420" class="style2">00</text> <!-- p3_o5_b -->
+  <text x="440" y="432" class="style2">00</text> <!-- p3_o6_a -->
+  <text x="460" y="432" class="style2">00</text> <!-- p3_o6_b -->
+  <text x="440" y="444" class="style2">00</text> <!-- p3_o7_a -->
+  <text x="460" y="444" class="style2">00</text> <!-- p3_o7_b -->
+  <text x="440" y="456" class="style2">00</text> <!-- p3_o8_a -->
+  <text x="460" y="456" class="style2">00</text> <!-- p3_o8_b -->
+  <text x="440" y="468" class="style2">00</text> <!-- p3_o9_a -->
+  <text x="460" y="468" class="style2">00</text> <!-- p3_o9_b -->
+  <text x="440" y="480" class="style2">00</text> <!-- p3_o10_a -->
+  <text x="460" y="480" class="style2">00</text> <!-- p3_o10_b -->
   <!-- DATOS PERIODO 3 OFICIAL FIN-->
 
   <!-- DATOS PERIODO 4 OFICIAL INICIO (Sofi) -->
-  <text x="550" y="445" class="style2">00</text> <!-- p4_o1 -->
-  <text x="570" y="445" class="style2">00</text> <!-- p4_o1 -->
-  <text x="550" y="457" class="style2">00</text> <!-- p4_o2 -->
-  <text x="570" y="457" class="style2">00</text> <!-- p4_o2 -->
-  <text x="550" y="469" class="style2">00</text> <!-- p4_o3 -->
-  <text x="570" y="469" class="style2">00</text> <!-- p4_o3 -->
-  <text x="550" y="481" class="style2">00</text> <!-- p4_o4 -->
-  <text x="570" y="481" class="style2">00</text> <!-- p4_o4 -->
+  <text x="545" y="372" class="style2">00</text> <!-- p4_o1_a -->
+  <text x="565" y="372" class="style2">00</text> <!-- p4_o1_b -->
+  <text x="545" y="384" class="style2">00</text> <!-- p4_o2_a -->
+  <text x="565" y="384" class="style2">00</text> <!-- p4_o2_b -->
+  <text x="545" y="396" class="style2">00</text> <!-- p4_o3_a -->
+  <text x="565" y="396" class="style2">00</text> <!-- p4_o3_b -->
+  <text x="545" y="408" class="style2">00</text> <!-- p4_o4_a -->
+  <text x="565" y="408" class="style2">00</text> <!-- p4_o4_b -->
+  <text x="545" y="420" class="style2">00</text> <!-- p4_o5_a -->
+  <text x="565" y="420" class="style2">00</text> <!-- p4_o5_b -->
+  <text x="545" y="432" class="style2">00</text> <!-- p4_o6_a -->
+  <text x="565" y="432" class="style2">00</text> <!-- p4_o6_b -->
+  <text x="545" y="444" class="style2">00</text> <!-- p4_o7_a -->
+  <text x="565" y="444" class="style2">00</text> <!-- p4_o7_b -->
+  <text x="545" y="456" class="style2">00</text> <!-- p4_o8_a -->
+  <text x="565" y="456" class="style2">00</text> <!-- p4_o8_b -->
+  <text x="545" y="468" class="style2">00</text> <!-- p4_o9_a -->
+  <text x="565" y="468" class="style2">00</text> <!-- p4_o9_b -->
+  <text x="545" y="480" class="style2">00</text> <!-- p4_o10_a -->
+  <text x="565" y="480" class="style2">00</text> <!-- p4_o10_b -->
   <!-- DATOS PERIODO 4 OFICIAL FIN-->
 
   <!-- DATOS COMENTARIOS INICIO (Sofi) -->
-  <text x="25" y="550" class="style2">__p4_o1__</text>
-  <text x="25" y="562" class="style2">__p4_o2__</text>
-  <text x="25" y="574" class="style2">__p4_o3__</text>
-  <text x="25" y="586" class="style2">__p4_o4__</text>
+  <text x="25" y="555" class="style2">__p4_o1__</text>
+  <text x="25" y="567" class="style2">__p4_o2__</text>
+  <text x="25" y="579" class="style2">__p4_o3__</text>
+  <text x="25" y="591" class="style2">__p4_o4__</text>
   <!-- DATOS COMENTARIOS FIN-->
 
   <!-- DATOS PROMEDIO GENERAL OFICIAL INICIO-->
-  <text x="215" y="670" class="style2">__prom__</text> <!-- Promedio General -->
+  <text x="220" y="690" class="style2">__prom__</text> <!-- Promedio General -->
   <!-- DATOS PROMEDIO GENERAL FIN-->
 
 </svg>
