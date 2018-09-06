@@ -475,17 +475,17 @@
   <!-- DATOS COMENTARIOS FIN-->
 
   <!-- DATOS PROMEDIO GENERAL OFICIAL INICIO-->
-  <text x="240" y="655" class="style2">__prom__</text> <!-- Promedio General -->
+  <text x="240" y="645" class="style2">__prom__</text> <!-- Promedio General -->
   <!-- DATOS PROMEDIO GENERAL FIN-->
 
   <!-- DATOS NOMBRE MASESTROS OFICIAL INICIO-->
-  <text x="400" y="655" class="style2">TITULAR</text> <!-- Maestro Titular -->
-  <text x="515" y="655" class="style2">SELMA URROZ</text> <!-- Directora -->
+  <text x="370" y="645" class="style2">TITULAR</text> <!-- Maestro Titular -->
+  <text x="490" y="645" class="style2">SELMA URROZ</text> <!-- Directora -->
   <!-- DATOS NOMBRE MAESTROS FIN--> 
 
   <!-- DATOS TALON OFICIAL INICIO-->
-  <text x="70" y="730" class="style2">Nombre</text> <!-- Nombre del Alumno -->
-  <text x="70" y="750" class="style2">Fecha</text> <!-- Fecha de impresion -->
+  <text x="70" y="760" class="style2">Nombre</text> <!-- Nombre del Alumno -->
+  <text x="75" y="790" class="style2">Fecha</text> <!-- Fecha de impresion -->
   <!-- DATOS TALON FIN--> 
 
 
