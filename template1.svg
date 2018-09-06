@@ -20,11 +20,11 @@
   <rect width="600" height="780" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
   
   <!-- HEADER INICIO (Sofi) -->
-  <text x="370" y="34" class="style4">Juan Perez Hernandez</text> <!-- nombre -->
-  <text x="440" y="44" class="style4">8ºA</text> <!-- gradogrupo -->
-  <text x="370" y="57" class="style4">22/Oct/2018</text> <!-- fecha -->
-  <text x="420" y="67" class="style4">2018-2019</text> <!-- ciclo -->
-  <text x="400" y="77" class="style4">Claudia Vega Bandala</text> <!-- maestro -->
+  <text x="360" y="32" class="style4">Juan Perez Hernandez</text> <!-- nombre -->
+  <text x="460" y="42" class="style4">8ºA</text> <!-- gradogrupo -->
+  <text x="400" y="55" class="style4">22/Oct/2018</text> <!-- fecha -->
+  <text x="410" y="65" class="style4">2018-2019</text> <!-- ciclo -->
+  <text x="380" y="75" class="style4">Claudia Vega Bandala</text> <!-- maestro -->
   <!-- HEADER FIN -->
 
   <!-- ETIQUETAS BIMESTRES INTERNO INICIO (SOFIA) -->
@@ -338,10 +338,10 @@
 
 
   <!-- ETIQUETAS PERIODOS OFICIAL INICIO (Sofi) -->
-  <text x="230" y="320" class="style3">Periodo 1</text> <!-- p1_e1 -->
-  <text x="330" y="320" class="style3">Periodo 2</text> <!-- p2_e2 -->
-  <text x="430" y="320" class="style3">Periodo 3</text> <!-- p3_e3 -->
-  <text x="545" y="320" class="style3">Final</text> <!-- p4_e4 -->
+  <text x="232" y="320" class="style4">Periodo 1</text> <!-- p1_e1 -->
+  <text x="332" y="320" class="style4">Periodo 2</text> <!-- p2_e2 -->
+  <text x="432" y="320" class="style4">Periodo 3</text> <!-- p3_e3 -->
+  <text x="543" y="320" class="style4">Final</text> <!-- p4_e4 -->
   <!-- ETIQUETAS PERIODOS OFICIAL FIN -->
 
   <!-- ETIQUETAS MATERIAS OFICIAL INICIO (Sofi) -->
@@ -479,8 +479,14 @@
   <!-- DATOS PROMEDIO GENERAL FIN-->
 
   <!-- DATOS NOMBRE MASESTROS OFICIAL INICIO-->
-  <text x="420" y="590" class="style2">__prom__</text> <!-- Maestro Titular -->
-  <text x="520" y="590" class="style2">__prom__</text> <!-- Directora -->
-  <!-- DATOS NOMBRE MAESTROS FIN-->  
+  <text x="400" y="590" class="style2">TITULAR</text> <!-- Maestro Titular -->
+  <text x="500" y="590" class="style2">SELMA URROZ</text> <!-- Directora -->
+  <!-- DATOS NOMBRE MAESTROS FIN--> 
+
+  <!-- DATOS TALON OFICIAL INICIO-->
+  <text x="200" y="690" class="style2">__prom__</text> <!-- Maestro Titular -->
+  <text x="200" y="710" class="style2">__prom__</text> <!-- Directora -->
+  <!-- DATOS TALON FIN--> 
+
 
 </svg>
