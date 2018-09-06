@@ -484,8 +484,8 @@
   <!-- DATOS NOMBRE MAESTROS FIN--> 
 
   <!-- DATOS TALON OFICIAL INICIO-->
-  <text x="200" y="690" class="style2">__prom__</text> <!-- Maestro Titular -->
-  <text x="200" y="710" class="style2">__prom__</text> <!-- Directora -->
+  <text x="200" y="690" class="style2">Nombre</text> <!-- Nombre del Alumno -->
+  <text x="200" y="710" class="style2">Fecha</text> <!-- Fecha de impresion -->
   <!-- DATOS TALON FIN--> 
 
 
